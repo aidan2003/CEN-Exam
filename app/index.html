@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>CEN 800 Quiz</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main id="app" class="app">
+      <header class="topbar">
+        <h1 class="title">CEN 800 &mdash; Law &amp; Ethics Quiz</h1>
+        <div id="session-info" class="session-info" hidden>
+          <span id="deck-label" class="pill"></span>
+          <span id="progress" class="pill"></span>
+          <span id="score" class="pill"></span>
+        </div>
+      </header>
+
+      <!-- Landing -->
+      <section id="view-landing" class="view">
+        <p class="lead">
+          Pick a deck and start practicing. Questions are shuffled each session.
+        </p>
+        <div id="deck-picker" class="deck-picker"></div>
+        <button id="start-btn" class="btn btn-primary" disabled>Start Quiz</button>
+        <p id="bank-status" class="muted"></p>
+      </section>
+
+      <!-- Quiz -->
+      <section id="view-quiz" class="view" hidden>
+        <div id="scenario" class="scenario" hidden></div>
+        <h2 id="question-text" class="question"></h2>
+        <div id="choices" class="choices"></div>
+        <div id="feedback" class="feedback" hidden></div>
+        <div class="row">
+          <button id="next-btn" class="btn btn-primary" disabled>Next</button>
+          <button id="quit-btn" class="btn btn-ghost">Quit</button>
+        </div>
+      </section>
+
+      <!-- Results -->
+      <section id="view-results" class="view" hidden>
+        <h2>Session complete</h2>
+        <p id="results-summary" class="lead"></p>
+        <div class="row">
+          <button id="retry-missed-btn" class="btn btn-primary">
+            Retry missed questions
+          </button>
+          <button id="restart-btn" class="btn">Restart same deck</button>
+          <button id="home-btn" class="btn btn-ghost">Pick a different deck</button>
+        </div>
+        <details class="review">
+          <summary>Review answers</summary>
+          <ol id="review-list" class="review-list"></ol>
+        </details>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>

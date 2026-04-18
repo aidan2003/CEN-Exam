@@ -1,0 +1,4657 @@
+[
+  {
+    "id": "L78-001",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "In the past, engineers were named \"Civil Engineers\" because they worked on engineering projects that included:",
+    "choices": {
+      "A": "Engineering just roads, bridges, buildings, canals, and dams",
+      "B": "Engineering projects that were non-military in nature",
+      "C": "Is Latin for concrete",
+      "D": "All of the above",
+      "E": "(a) and (b) above"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L78-002",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "The Royal Commission of the Quebec Bridge Disaster found the following to be the main cause of the disaster:",
+    "choices": {
+      "A": "Errors in judgement of the consulting and design engineer",
+      "B": "Poor judgement of the president of the bridge company for appointing unqualified engineer on site",
+      "C": "Inappropriate finances, time and negligence to complete the project properly",
+      "D": "Ego of the consulting engineer",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-003",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Which province in Canada has the most number of licensed professional engineers?",
+    "choices": {
+      "A": "Quebec",
+      "B": "Alberta",
+      "C": "British Columbia",
+      "D": "Ontario",
+      "E": "Nova Scotia"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L78-004",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "In order to be eligible for professional engineering status in Ontario some minimum academic requirements must be met. Which of the following is NOT true?",
+    "choices": {
+      "A": "Any background",
+      "B": "Graduation from an engineering program",
+      "C": "Graduation from an accredited engineering program in Canada",
+      "D": "Graduation from a science program",
+      "E": "Graduation from a technologist program"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-005",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "According to the licensing rules, what are the main qualities that an engineer must have in order to get their P. Eng. license?",
+    "choices": {
+      "A": "Education and experience",
+      "B": "Knowledge of local practice, such as codes and by-laws",
+      "C": "Communicate in the working language of the province or territory",
+      "D": "Be of good character and knowledge of professional practice and ethics",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-006",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "The original licensing laws relating to engineering in Canada's provinces and territories were \"open,\" meaning obtaining a license to practice engineering was voluntary. Which statement characterizes the present laws?",
+    "choices": {
+      "A": "A license is needed to practice engineering business",
+      "B": "An engineering graduate who does not have a license cannot offer engineering services to the public",
+      "C": "The present laws are \"closed\" and there is a restriction on the use of the term Professional Engineer",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L78-007",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "In all Canadian provinces and territories, the laws regarding the requirement to get licenses to practice engineering are considered as a \"closed\" profession. That means that",
+    "choices": {
+      "A": "It is voluntary to get licensed",
+      "B": "It is mandatory to get licensed to practice engineering",
+      "C": "Only lawful for Canadian educated engineers to get a license",
+      "D": "New licenses are only issued after a licensed engineer retires",
+      "E": "There are limited number of engineer licenses"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L78-008",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Which of the following is an implication of the engineering profession being self-regulating in Canada?",
+    "choices": {
+      "A": "The provincial and territorial engineering associations are responsible for disciplining members who violate the code of ethics",
+      "B": "The provincial and territorial governments are directly responsible for the granting of licenses",
+      "C": "The provincial and territorial governments evaluate the credentials of an applicant to the provincial or territorial association",
+      "D": "(b) and (c)",
+      "E": "None of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-009",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "In all Canadian provinces and territories, the profession of engineering is a self-regulating profession. This means that",
+    "choices": {
+      "A": "The premier of the province/ territory appoints board members to the engineering regulatory body",
+      "B": "The legislature sets all rules and regulations that professional engineers must abide by",
+      "C": "Licensed professional engineers elect their governing boards which in turn set the regulations, bylaws and code of ethics for all professional engineers",
+      "D": "You must be a member of a technical society to be a licensed professional engineer",
+      "E": "(a) and (b) above"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L78-010",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Which of the following is an implication of the engineering profession being self-regulating in Canada?",
+    "choices": {
+      "A": "The provincial and territorial engineering associations are not responsible for disciplining members who violate the code of ethics",
+      "B": "The engineering societies are responsible for the granting of licenses",
+      "C": "The provincial and territorial governments evaluate the credentials of people coming from outside Canada, who apply for membership to a provincial or territorial association",
+      "D": "(b) and (c)",
+      "E": "None of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-011",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Professional engineering is almost always defined to include",
+    "choices": {
+      "A": "Work that involves the utilization of engineering theories",
+      "B": "Providing opinions of engineering matters",
+      "C": "Work that involves safety",
+      "D": "(b) and (c)",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-012",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "A professional engineer in Ontario offering engineering services directly to the public",
+    "choices": {
+      "A": "Requires a Certificate of Authorization",
+      "B": "Always needs professional liability insurance of no less than $100,000",
+      "C": "Need not have liability insurance, but then must satisfy other requirements",
+      "D": "(a) and (c)",
+      "E": "None of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L78-013",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "A professional engineer in Ontario offering engineering services directly to the public",
+    "choices": {
+      "A": "Does not need to have a Certificate of Authorization",
+      "B": "Needs professional liability insurance exceeding $100,000",
+      "C": "Does not need to have liability insurance and does not need to notify clients about this",
+      "D": "(a) and (b)",
+      "E": "None of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-014",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "In order to receive the designation \"Consulting Engineer\" in the province of Ontario from the PEO, you must satisfy which of the following requirements?",
+    "choices": {
+      "A": "Be a licensed member of the PEO in good standing for at least 5 years",
+      "B": "Be continuously engaged in private practice for at least 2 years",
+      "C": "Pass (or be exempted from) exams prescribed by the PEO",
+      "D": "All of the above",
+      "E": "(a) and (b) above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L78-015",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "The purpose of licensing engineering corporation is",
+    "choices": {
+      "A": "Protect the public against incompetence, negligence, and professional misconduct",
+      "B": "Identify the individuals responsible for engineering services",
+      "C": "Allowing corporations to charge higher engineering fees",
+      "D": "(a) and (b)",
+      "E": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L78-016",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "A requirement for maintaining competence to practice engineering is that an engineer",
+    "choices": {
+      "A": "Maintain membership in a professional engineering society",
+      "B": "Take a continuing education course for credit at least once every two years",
+      "C": "Read a monthly magazine for your engineering discipline",
+      "D": "Maintain current knowledge of your discipline",
+      "E": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L78-017",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Is a professional engineer required to keep abreast of new developments in his / her field of engineering?",
+    "choices": {
+      "A": "Yes, because it is interesting to do so",
+      "B": "Yes, if they are active in the practice of engineering",
+      "C": "No, because it is acceptable to rely on what was taught in university",
+      "D": "No, unless an employer is willing to pay for the engineer to take the university courses while employed",
+      "E": "None of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L78-018",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "When is it acceptable for a professional engineer not to keep up with new developments in his/ her field of engineering?",
+    "choices": {
+      "A": "When the topics of relevance are not interesting",
+      "B": "When the previously used techniques and methods are easier to apply",
+      "C": "When the topics of relevance were not taught in university",
+      "D": "When an employer does not pay for the engineer to take university courses",
+      "E": "None of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-019",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "A professional engineer is required to maintain competence and currency in their profession by",
+    "choices": {
+      "A": "Maintaining membership(s) in technical societies",
+      "B": "Take continuing education courses to upgrade your skills",
+      "C": "Read magazines and periodicals in your area of discipline",
+      "D": "Participate in conferences and workshops in your area of discipline",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-020",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Engineering societies in Canada",
+    "choices": {
+      "A": "Do not exist in most major engineering disciplines",
+      "B": "Often run conferences to help keep engineers aware of new developments in the field of engineering",
+      "C": "Have similar roles to the provincial and territorial engineering associations",
+      "D": "Never have code of ethics because such codes are responsibility of the provincial and territorial associations",
+      "E": "None of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L78-021",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Engineering societies in Canada",
+    "choices": {
+      "A": "Exist in most major engineering disciplines, but not in any smaller ones",
+      "B": "Often publish journals to help keep engineers aware of new developments in the field of engineering",
+      "C": "Have different roles than the provincial and territorial engineering associations",
+      "D": "(b) and (c)",
+      "E": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L78-022",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "According to the code of ethics, which of the following activities by a professional engineer would be considered unethical?",
+    "choices": {
+      "A": "Reviewing the work for another P.Eng with that member consent",
+      "B": "Providing consulting services",
+      "C": "Signing plans prepared by an unknown person",
+      "D": "Providing free services for a charity",
+      "E": "All of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L78-023",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Professional misconduct in the practice of engineering",
+    "choices": {
+      "A": "Can include incompetence and corruption, but excludes negligence",
+      "B": "Can be the cause of disciplinary action only by the government, and not by the provincial or territorial engineering association",
+      "C": "Can lead to a member of the provincial or territorial association being reprimanded and, in severe cases, expelled or suspended",
+      "D": "Is only a matter relating to the integrity of the profession, and does not in general constitute a threat to the public welfare",
+      "E": "None of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L78-024",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "In response to a public complaint about an engineer, what are the 6 main causes for disciplinary action by the PEO (or any other of the provincial/ territorial associations)?",
+    "choices": {
+      "A": "Misconduct, incompetence, negligence",
+      "B": "Breach of code of ethics, physical/ mental incapacity, conviction of a serious offence",
+      "C": "Incompetence, negligence, conduct unbecoming of a professional engineer",
+      "D": "(a) and (b) above",
+      "E": "(b) and (c) above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L78-025",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "In the 3 stages of the disciplinary process for an engineer",
+    "choices": {
+      "A": "The investigation committee and disciplinary committee are made up of the same licensed professional engineers",
+      "B": "Both the investigation committee and disciplinary committee are not involved in stage 1, gathering evidence",
+      "C": "The investigation committee and disciplinary committee are made up of different licensed professional engineers",
+      "D": "(a) and (b) above",
+      "E": "(b) and (c) above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-026",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Consider the code of ethics of the engineering society IEEE and the provincial association PEO",
+    "choices": {
+      "A": "Both focus on licensing in the electrical and electronics engineering field",
+      "B": "Both focus on licensing in the province of Ontario",
+      "C": "There are some similarities in the two codes of ethics",
+      "D": "There are no differences in the two codes of ethics",
+      "E": "(b) and (c)"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L78-027",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "The code of ethics of Professional Engineers Ontario and the IEEE code of ethics",
+    "choices": {
+      "A": "Have differences related to the different mandates of PEO and IEEE",
+      "B": "Are equally important",
+      "C": "Are approved by a common committee for engineering ethics",
+      "D": "Both relate to licensing",
+      "E": "(a), (b) and (d)"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-028",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "An example of professional misconduct would be the act of",
+    "choices": {
+      "A": "Applying your engineering seal to engineering plans that you have prepared",
+      "B": "Applying your engineering seal to an engineering drawing that you did not prepare, but which was prepared under your direct supervision",
+      "C": "Applying your engineering seal to an engineering plan that you have not thoroughly reviewed",
+      "D": "(a) and (b)",
+      "E": "(a) and (c)"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L78-029",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Lifelong learning in engineering can be obtained by an engineer from a number of sources. These include",
+    "choices": {
+      "A": "Technical societies",
+      "B": "Universities",
+      "C": "Private institutions",
+      "D": "Industry associations",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-030",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Codes and standards used in engineering are often written by the following organizations",
+    "choices": {
+      "A": "Technical societies",
+      "B": "Industry associations",
+      "C": "Universities and research institutions",
+      "D": "All of the above",
+      "E": "(a) and (b) above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-031",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "The PEO Code of Ethics implies that an engineer can",
+    "choices": {
+      "A": "Maliciously point out weaknesses of another engineer",
+      "B": "Falsify information about another engineer's competence",
+      "C": "Point out errors made by another engineer, especially when public safety is in jeopardy",
+      "D": "Appear as an expert witness in court in any area of engineering",
+      "E": "All of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L78-032",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "One aspect of the PEO Code of Ethics for engineers indicates that an engineer should",
+    "choices": {
+      "A": "Point out technical errors of another engineer, but not point out unethical behaviour",
+      "B": "Constructively point out technical errors made by another engineer",
+      "C": "Spread untrue information about the company owned by another engineer",
+      "D": "(a) and (c)",
+      "E": "All of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L78-033",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Of the duties of the engineer alluded to in PEO's engineering code of ethics, which is considered to be of paramount importance?",
+    "choices": {
+      "A": "Duty to subordinates who work under your guidance",
+      "B": "Duty to society",
+      "C": "Duty to self",
+      "D": "Duty to suppliers of raw materials used in your company",
+      "E": "Duty to your manager"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L78-034",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Which of the following is NOT a characteristic of a profession?",
+    "choices": {
+      "A": "Specialized knowledge",
+      "B": "Self-regulated",
+      "C": "Responsibility to the public",
+      "D": "High salary"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L78-035",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Engineers may perform services outside of their areas of competence as long as they inform their employer or client of this fact",
+    "choices": {
+      "A": "If they do this work at night",
+      "B": "If they work for the government",
+      "C": "If the pay is good",
+      "D": "If they work during their free time",
+      "E": "None of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-036",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "An engineer is likely guilty of professional misconduct if she has",
+    "choices": {
+      "A": "Loaned her engineering seal to another engineer who has not yet become a licensed engineer",
+      "B": "Applied her engineering seal to an engineering drawing that was prepared very carefully by another engineer, but that she has not looked over",
+      "C": "Used her engineering seal to seal complete and final engineering plans that she has prepared",
+      "D": "(a) and (b)",
+      "E": "(a) and (c)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L78-037",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "An engineer who takes on an administrative management position for her company",
+    "choices": {
+      "A": "Is permitted to participate in and oversee engineering activities",
+      "B": "Is permitted to participate in and oversee design activities",
+      "C": "Is permitted to participate in and oversee non-engineering activities",
+      "D": "(a) and (b)",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-038",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "In the Code of Ethics of Professional Engineers Ontario, the duty of one engineer to another engineer who works for a financial management company in the Industrial Engineering Department",
+    "choices": {
+      "A": "Is not applicable since financial management companies do not undertake engineering",
+      "B": "Would be different if the engineer worked in the Facilities Engineering Department of the financial management company",
+      "C": "Would be the same if the engineer worked in the Facilities Engineering Department of the financial management company",
+      "D": "(a) and (c)",
+      "E": "None of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L78-039",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Which of the following is an actual conflict of interest?",
+    "choices": {
+      "A": "Serving on a codes-and-standards committee for your own industry sector",
+      "B": "Voting in a public election on an environmental issue that directly affects your business",
+      "C": "Developing a site plan for a highway construction project in your own home community",
+      "D": "Accepting a coffee mug with one of your suppliers' business logo",
+      "E": "None of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-040",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "As a result of an engineer's duty to herself or himself, an engineer who works for a company as an employee",
+    "choices": {
+      "A": "Is permitted to dispute the company's requests",
+      "B": "Should keep up to date with the relevant emerging engineering codes",
+      "C": "Should uphold the intent of the engineering code of ethics",
+      "D": "(b) and (c)",
+      "E": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L78-041",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Clause 7(iii) in Ontario's Code of Ethics for engineers implies that an engineer",
+    "choices": {
+      "A": "Should point out, but not boast about, technical errors made by another engineer",
+      "B": "Should spread distorted information about another engineer's business",
+      "C": "Should ignore technical errors of another engineer, for fear of harming his or her reputation",
+      "D": "(a) and (c)",
+      "E": "None of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-042",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Clause 7(iii) in Ontario's Code of Ethics for engineers implies that an engineer",
+    "choices": {
+      "A": "Should not point out technical errors made by another engineer",
+      "B": "Should spread unfounded rumors about another engineer's business",
+      "C": "Should not testify honestly in a court of law about the unethical behaviour of another engineer, for fear of harming his or her reputation",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-043",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "An engineer would be involved in professional misconduct if he or she",
+    "choices": {
+      "A": "Disciplines an engineer who reports to him or her without investigating the situation",
+      "B": "Makes a decision when asked to do so regarding the sizing of a chemical reaction vessel in a petrochemical plant",
+      "C": "Applies his or her engineering seal to an engineering diagram for a circuit diagram for a combined media player and cell phone",
+      "D": "(a) and (b)",
+      "E": "(a) and (c)"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-044",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "An example of professional misconduct regarding use of your engineering seal would be",
+    "choices": {
+      "A": "Applying your engineering seal to engineering plans that you have prepared, but you do not feel are adequately done",
+      "B": "Applying your engineering seal to an engineering drawing that you did not prepare, but which was prepared under your direct supervision and which you have reviewed",
+      "C": "Applying your engineering seal to an engineering plan that you have not thoroughly reviewed",
+      "D": "(a) and (b)",
+      "E": "(a) and (c)"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-045",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "In the 4 ethical theories talked about in class, which of the following best describes Mills Utilitarianism?",
+    "choices": {
+      "A": "You have a fundamental duty to act in an ethical manner",
+      "B": "You must achieve a \"golden mean\" in balancing ethical dilemmas",
+      "C": "Best course of action is a solution that produces the maximum benefit for the greatest number of people",
+      "D": "(b) and (c) above",
+      "E": "All of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L78-046",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "In the 4 ethical theories talked about in class, which of the following best describes Kant's Formalism?",
+    "choices": {
+      "A": "You have a fundamental duty to act in an ethical manner",
+      "B": "You must achieve a \"golden mean\" in balancing ethical dilemmas",
+      "C": "Best course of action is a solution that produces the maximum benefit for the greatest number of people",
+      "D": "You have a fundamental right to life, dignity, liberty",
+      "E": "PEO code of ethics"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-047",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "In the 4 ethical theories talked about in class, which of the following best describes Locke's Rights Ethics?",
+    "choices": {
+      "A": "You have a fundamental duty to act in an ethical manner",
+      "B": "You must achieve a \"golden mean\" in balancing ethical dilemmas",
+      "C": "Best course of action is a solution that produces the maximum benefit for the greatest number of people",
+      "D": "You have a fundamental right to life, dignity, liberty",
+      "E": "PEO code of ethics"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L78-048",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "In the 4 ethical theories talked about in class, which of the following best describes Aristotle's Virtue Ethics?",
+    "choices": {
+      "A": "You have a fundamental duty to act in an ethical manner",
+      "B": "You must achieve a \"golden mean\" in balancing ethical dilemmas",
+      "C": "Best course of action is a solution that produces the maximum benefit for the greatest number of people",
+      "D": "You have a fundamental right to life, dignity, liberty",
+      "E": "PEO code of ethics"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L78-049",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Metrolinx is building the Union-Pearson rail link to bring people from the airport to Union Station via a dedicated direct powered train. Although this will expose people living in the Weston and Junction areas of Toronto to more pollution, using tax money to build this line is an example of",
+    "choices": {
+      "A": "Mills Utilitarianism",
+      "B": "Kant's Formalism",
+      "C": "Locke's Rights Ethics",
+      "D": "Aristotle's Virtue Ethics",
+      "E": "None of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-050",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "The Canadian Charter of Rights and Freedoms embodies many of the same concepts of this ethical theory",
+    "choices": {
+      "A": "Mills Utilitarianism",
+      "B": "Kant's Formalism",
+      "C": "Locke's Rights Ethics",
+      "D": "Aristotle's Virtue Ethics",
+      "E": "None of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L78-051",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "In deciding on the design of the new Ryerson Student Learning Center being built on Gould and Yonge Street, the Ryerson building committee most likely applied this ethical theory",
+    "choices": {
+      "A": "Mills Utilitarianism",
+      "B": "Kant's Formalism",
+      "C": "Locke's Rights Ethics",
+      "D": "Aristotle's Virtue Ethics",
+      "E": "None of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L78-052",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Ethical problems relating to engineering activities in companies that manufacture compressed gas cylinders are likely to arise during",
+    "choices": {
+      "A": "The selection of a supplier of pressure relief valves, where the engineer making the decision does so in an unbiased and reasonable manner",
+      "B": "The selection of a supplier of pressure relief valves, where the engineer making the decision does so based on reasonable engineering factors but where the choice is likely to be perceived as biased",
+      "C": "The selection of a supplier of pressure relief valves, where the engineer making the decision does so while biased by an interest that can benefit a relative",
+      "D": "The selection of a supplier of pressure relief valves, where the engineer making the decision does so following precisely the approved procedures and criteria stipulated by the engineer's company",
+      "E": "(b) and (c)"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-053",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Consider the code of ethics of the engineering society IEEE and the provincial association PEO",
+    "choices": {
+      "A": "Both focus on licensing in the electrical and electronics engineering field",
+      "B": "Both focus on licensing in the province of Ontario",
+      "C": "There are some similarities in the two codes of ethics",
+      "D": "There are no differences in the two codes of ethics",
+      "E": "(b) and (c)"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L78-054",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "An engineer who takes on an administrative management position for her company",
+    "choices": {
+      "A": "Is permitted to participate in and oversee engineering activities",
+      "B": "Is permitted to participate in and oversee design activities",
+      "C": "Is permitted to participate in and oversee non-engineering activities",
+      "D": "(a) and (b)",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-055",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Of the duties of the engineer alluded to in PEO's engineering code of ethics, which is considered to be of paramount importance?",
+    "choices": {
+      "A": "Duty to subordinates who work under your guidance",
+      "B": "Duty to society",
+      "C": "Duty to self",
+      "D": "Duty to suppliers of raw materials used in your company",
+      "E": "Duty to your manager"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L78-056",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "An engineer finds himself faced with a serious ethical dilemma in an engineering matter within a branch office of his company. Which of the following factors should he take into account in deciding the course of action to follow?",
+    "choices": {
+      "A": "The impact his decision can have on his company's engineering and non-engineering staff members",
+      "B": "The impact his decision can have on only his company's engineering staff members",
+      "C": "The impact his decision can have on only his company's engineering staff members who are employed at the branch office",
+      "D": "(b) and (c)",
+      "E": "All of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-057",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "An engineer who quits a company in order to establish and run her own engineering company is likely to find herself facing",
+    "choices": {
+      "A": "Fewer ethical dilemmas than when she was working at her past company as an engineer",
+      "B": "More ethical dilemmas than when she was working at her past company as an engineer",
+      "C": "Fewer ethical dilemmas than other engineers who work at her past company as engineers",
+      "D": "More ethical dilemmas than other engineers who work at her past company as engineers",
+      "E": "(b) and (d)"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-058",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "A mechanical product is sold by an engineering company to consumers through hardware stores. The mechanical product is found to have a structural problem that causes 46 serious injuries in the first six months after it goes on sale to the public, based on a report by the company's safety engineers. A prudent course of action would be to",
+    "choices": {
+      "A": "Recall the products that have been sold so that repairs can be made to correct the structural problem",
+      "B": "Recall the products that have been sold so that repairs can be made to correct the structural problem, and offer the owners of products that have been sold financial compensation",
+      "C": "Correct the structural problem so that the reason for the mechanical product causing injuries is eradicated",
+      "D": "(a) and (b)",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-059",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Consider two licensed engineers in Ontario, who work for different companies. The duty of Engineer A to Engineer B",
+    "choices": {
+      "A": "Exceeds Engineer A's duty to another engineer who works for Engineer A's company",
+      "B": "Is below the engineer's duty to another engineer who works for Engineer A's company",
+      "C": "Exceeds Engineer A's duty to protect the public safety",
+      "D": "Is below Engineer A's duty to protect the public safety",
+      "E": "(b) and (d)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L78-060",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "An experienced licensed engineer has had an engineering seal for more than two decades. A charge of professional misconduct could reasonably be made if the licensed engineer",
+    "choices": {
+      "A": "Applies the engineering seal to an engineering drawing without reviewing it",
+      "B": "Applies the engineering seal to an engineering drawing that is complete and properly done",
+      "C": "Applies the engineering seal to an engineering drawing that is complete, except it is lacking one part",
+      "D": "(a) and (c)",
+      "E": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L78-061",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "An engineer is an engineering manager in a health product company, which relies in part on public donations for part of its funding. As a consequence of the code of ethics in the province where the engineer works, the engineer",
+    "choices": {
+      "A": "Can dispute orders made by the president of the company",
+      "B": "Can dispute orders made by the president of the company, but only when they endanger the public welfare",
+      "C": "Can dispute requests made by donors who provide money to the company through donations",
+      "D": "(b) and (c)",
+      "E": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L78-062",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "There is evidence that climate change will result in",
+    "choices": {
+      "A": "An increased frequency and intensity of storms",
+      "B": "Greater droughts and floods to exacerbate food production and distribution problems,",
+      "C": "Increase in hot days, causing an increase in heat-stress-related health problems, especially for children and the elderly, the poor, and those already sick",
+      "D": "Deaths from natural disaster, especially in developing countries",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-063",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Which of the following statements are true?",
+    "choices": {
+      "A": "Canada's GHG emissions are higher than our Kyoto commitment to be 6% below 1998 levels",
+      "B": "It is not ethical to give or accept bribes even if it is the only way you can continue to operate in a country",
+      "C": "Stakeholder engagement is good for an organization",
+      "D": "An engineer should know what the rights and risks of harm to all of his or her stakeholders are",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-064",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "true_false",
+    "question": "Organizational governance is the system by which an organization makes and implements decisions in pursuit of its objectives",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-065",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 21 to 25 In an effort to become better known in the engineering community, Marketwise Pipe Manufacturing Company hires Susan, an expert in marketing. Susan suggests that Marketwise offer a complimentary seminar to educate engineers on the current advances in the selection and use of pipe construction. She suggests that Marketwise extend invitations to several local engineers and that they offer refreshments at the seminar, including a buffet luncheon during the seminar and a cocktail reception immediately following. Suppose that Marketwise takes Susan's suggestion and extends an invitation to Terry, a local engineer who is new to the area. Terry is not sure how to respond to this invitation. Being new to the area, attending such a seminar will give him the opportunity to meet and network with other engineers. Furthermore, learning more about the selection and use of pipes would be helpful to Terry. On the other hand, Terry knows he will be purchasing pipes at some point in the future and wonders if accepting the invitation might later create a conflict of interest. In addition, Terry wonders if accepting the invitation will amount to a bribe] If you were an executive at Marketwise, how would you respond to Susan's suggestion?",
+    "choices": {
+      "A": "Not be concerned at all",
+      "B": "Be concerned that providing a free seminar and associated complimentary activities could be construed as obligating attendees to buy products from Marketwise Pipe Manufacturing Company",
+      "C": "Be concerned that simply offering a free seminar intended to educate potential clients about current advances in piping is potentially unethical",
+      "D": "(b) and (c)",
+      "E": "None of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L78-066",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 21 to 25 In an effort to become better known in the engineering community, Marketwise Pipe Manufacturing Company hires Susan, an expert in marketing. Susan suggests that Marketwise offer a complimentary seminar to educate engineers on the current advances in the selection and use of pipe construction. She suggests that Marketwise extend invitations to several local engineers and that they offer refreshments at the seminar, including a buffet luncheon during the seminar and a cocktail reception immediately following. Suppose that Marketwise takes Susan's suggestion and extends an invitation to Terry, a local engineer who is new to the area. Terry is not sure how to respond to this invitation. Being new to the area, attending such a seminar will give him the opportunity to meet and network with other engineers. Furthermore, learning more about the selection and use of pipes would be helpful to Terry. On the other hand, Terry knows he will be purchasing pipes at some point in the future and wonders if accepting the invitation might later create a conflict of interest. In addition, Terry wonders if accepting the invitation will amount to a bribe] How should Terry respond to the invitation?",
+    "choices": {
+      "A": "Be concerned that simply attending a seminar to learn about advances in piping is potentially unethical",
+      "B": "Ensure that attending the free seminar and associated complimentary activities in no way obligates him to buy products from Marketwise Pipe Manufacturing Company now or in the future",
+      "C": "Not be concerned at all",
+      "D": "(a) and (b)",
+      "E": "None of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L78-067",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 21 to 25 In an effort to become better known in the engineering community, Marketwise Pipe Manufacturing Company hires Susan, an expert in marketing. Susan suggests that Marketwise offer a complimentary seminar to educate engineers on the current advances in the selection and use of pipe construction. She suggests that Marketwise extend invitations to several local engineers and that they offer refreshments at the seminar, including a buffet luncheon during the seminar and a cocktail reception immediately following. Suppose that Marketwise takes Susan's suggestion and extends an invitation to Terry, a local engineer who is new to the area. Terry is not sure how to respond to this invitation. Being new to the area, attending such a seminar will give him the opportunity to meet and network with other engineers. Furthermore, learning more about the selection and use of pipes would be helpful to Terry. On the other hand, Terry knows he will be purchasing pipes at some point in the future and wonders if accepting the invitation might later create a conflict of interest. In addition, Terry wonders if accepting the invitation will amount to a bribe] Terry's concern about a potential conflict of interest is",
+    "choices": {
+      "A": "Not relevant because he is new to the area",
+      "B": "Only relevant because if he has a job presently, since he can have no conflict of interest if he is unemployed",
+      "C": "Only relevant if he agrees to give preference to Pipe Manufacturing Company because of attending",
+      "D": "(b) and (c)",
+      "E": "None of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L78-068",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 21 to 25 In an effort to become better known in the engineering community, Marketwise Pipe Manufacturing Company hires Susan, an expert in marketing. Susan suggests that Marketwise offer a complimentary seminar to educate engineers on the current advances in the selection and use of pipe construction. She suggests that Marketwise extend invitations to several local engineers and that they offer refreshments at the seminar, including a buffet luncheon during the seminar and a cocktail reception immediately following. Suppose that Marketwise takes Susan's suggestion and extends an invitation to Terry, a local engineer who is new to the area. Terry is not sure how to respond to this invitation. Being new to the area, attending such a seminar will give him the opportunity to meet and network with other engineers. Furthermore, learning more about the selection and use of pipes would be helpful to Terry. On the other hand, Terry knows he will be purchasing pipes at some point in the future and wonders if accepting the invitation might later create a conflict of interest. In addition, Terry wonders if accepting the invitation will amount to a bribe] The potential conflict of interest mentioned in the case study is attributable to the fact that",
+    "choices": {
+      "A": "Engineers should know about advances in piping without attending the type of seminar offered by Marketwise Pipe Manufacturing Company",
+      "B": "Marketwise Pipe Manufacturing Company is offering complimentary attendance only to a limited number of local engineers",
+      "C": "The seminar will provide opportunities for attendees to network with other engineers",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-069",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 21 to 25 In an effort to become better known in the engineering community, Marketwise Pipe Manufacturing Company hires Susan, an expert in marketing. Susan suggests that Marketwise offer a complimentary seminar to educate engineers on the current advances in the selection and use of pipe construction. She suggests that Marketwise extend invitations to several local engineers and that they offer refreshments at the seminar, including a buffet luncheon during the seminar and a cocktail reception immediately following. Suppose that Marketwise takes Susan's suggestion and extends an invitation to Terry, a local engineer who is new to the area. Terry is not sure how to respond to this invitation. Being new to the area, attending such a seminar will give him the opportunity to meet and network with other engineers. Furthermore, learning more about the selection and use of pipes would be helpful to Terry. On the other hand, Terry knows he will be purchasing pipes at some point in the future and wonders if accepting the invitation might later create a conflict of interest. In addition, Terry wonders if accepting the invitation will amount to a bribe] In the future, Terry actually purchases pipes from Marketwise Pipe Manufacturing Company",
+    "choices": {
+      "A": "He is not in violation of the PEO Code of Ethics if he did so because it was the most beneficial option based on his engineering judgment",
+      "B": "He is in violation of the PEO Code of Ethics, even if he did so because it was the most beneficial option in his engineering judgment, because he learned about advances in piping at the seminar",
+      "C": "He is clearly in violation of the PEO Code of Ethics",
+      "D": "(b) and (c)",
+      "E": "None of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-070",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 26 to 30 Read the following scenario and answer the five questions that follow] If you are a principal in the Allied Corporation, you should",
+    "choices": {
+      "A": "Express your concerns to all stakeholders involved in the proposal process, with the request that assurances be made that the safety of the public will not be jeopardized",
+      "B": "Quit your job and try to get one with the O'Leary Company",
+      "C": "Launch a lawsuit against Mikie Incorporated for putting forward such a high-cost proposal",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-071",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 26 to 30 Read the following scenario and answer the five questions that follow] If, following the decision, the Allied Corporation and Mikie Incorporated file a protest with the agency and call for a public hearing based on the ideas expressed above, how would you respond if you were a principal with the O'Leary Company?",
+    "choices": {
+      "A": "Explain how the qualifications of your company were vetted by the provincial agency and deemed acceptable for inclusion in the three finalists",
+      "B": "Explain that the costs of your company's bid were kept as low as reasonably possible because the provincial agency stated cost would be a significant factor",
+      "C": "Explain how the project can be done safely and to proper engineering standards for the cost your company put forward in its bid",
+      "D": "(a) and (c)",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-072",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 26 to 30 Read the following scenario and answer the five questions that follow] Should the provincial agency have accepted this bid after maintaining that cost would not be the overriding factor?",
+    "choices": {
+      "A": "Yes, if all relevant factors were considered carefully and fairly in picking the winning bid",
+      "B": "Yes, if the bid was the best in overall terms",
+      "C": "No, because the bid had the lowest cost",
+      "D": "No, even if the bid was the best in overall terms because it nonetheless had the lowest cost",
+      "E": "(a) and (b)"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-073",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 26 to 30 Read the following scenario and answer the five questions that follow] The stipulation by the provincial agency that cost will be a significant factor in evaluating bids but not necessarily the deciding factor",
+    "choices": {
+      "A": "Is unethical because it encourages cutting corners in designs to achieve the lowest bid",
+      "B": "Is ethical because it encourages containing costs in designs to achieve a low bid while still meeting the design objectives",
+      "C": "Means all the bidding companies can win the competition if they can achieve the lowest cost bid",
+      "D": "Puts the safety of the public at risk",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-074",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 26 to 30 Read the following scenario and answer the five questions that follow] What information would be relevant to your ethics assessment of this case?",
+    "choices": {
+      "A": "The engineering competency of the bidding firms",
+      "B": "The salaries paid to the presidents of the bidding firms over the last year",
+      "C": "How public safety is addressed in the proposals",
+      "D": "(a) and (c)",
+      "E": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L78-075",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 31 to 35 Read the following scenario and answer the five questions that follow] Engineer Alpha can",
+    "choices": {
+      "A": "Accept the trip, since he selected the valves without knowledge of this invitation",
+      "B": "Contact his supervisor and ask for permission in accepting the trip",
+      "C": "Not accept such a big gift",
+      "D": "Be perceived publicly as not behaving ethically if he accepts the gift",
+      "E": "Both (c) and (d)"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-076",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 31 to 35 Read the following scenario and answer the five questions that follow] If Engineer Alpha accepts the trip",
+    "choices": {
+      "A": "His behavior is unlawful and disgraceful",
+      "B": "He is guilty of professional misconduct",
+      "C": "He is endangering the public",
+      "D": "He may be in breach of the Code of Ethics",
+      "E": "None of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L78-077",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 31 to 35 Read the following scenario and answer the five questions that follow] If Engineer Alpha is taking the trip, he is",
+    "choices": {
+      "A": "Acting as a faithful agent for his employer",
+      "B": "Acting in the public interest",
+      "C": "Acting in his own interest",
+      "D": "In a situation that may be perceived as a conflict of interest",
+      "E": "Both (c) and (d)"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-078",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 31 to 35 Read the following scenario and answer the five questions that follow] In judging the above case, which Code of Ethics paragraphs apply?",
+    "choices": {
+      "A": "4",
+      "B": "7.i",
+      "C": "7.iv",
+      "D": "(a) and (c)",
+      "E": "8"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L78-079",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 31 to 35 Read the following scenario and answer the five questions that follow] If the last paragraph of the above case study read as follows: after a large number of valves had been specified and purchased, the salesperson of the valve manufacturer visited Alpha and invited him to participate in a seminar describing new improved products. The seminar would take place at a hotel in town and would be followed by a cocktail reception and dinner. Alpha attends the seminar. His behavior is",
+    "choices": {
+      "A": "Unethical, because by attending the free seminar he will recommend the product",
+      "B": "Not a compromise of the engineer's independent professional judgment",
+      "C": "Ethical, because the cocktail reception and dinner are a courtesy provided to engineers in the area",
+      "D": "An opportunity to become educated on a particular topic",
+      "E": "(b), (c), and (d)"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-080",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 36 to 40 Read the following scenario and answer the five questions that follow] Omega has an ethical dilemma relating to the following paragraphs of the Code of Ethics",
+    "choices": {
+      "A": "1.i",
+      "B": "1.iii",
+      "C": "3",
+      "D": "7.i",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-081",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 36 to 40 Read the following scenario and answer the five questions that follow] Omega is not pursuing the issue any further and ABC is producing a cheaper part. As the shipment is prepared to be sent to XYZ, Omega is asked to sign a report verifying that the specifications for the part have been met. Which one of the following actions does not violate the Code of Ethics?",
+    "choices": {
+      "A": "Omega decides that he will not sign the report, knowing that a cheaper part has been produced",
+      "B": "Omega signs the report at the instruction of his boss Sigma",
+      "C": "Omega signs the report and places an anonymous phone call to Good Engineering Company informing them about the changes",
+      "D": "Omega takes sick leave in order not to sign the report",
+      "E": "None of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-082",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 36 to 40 Read the following scenario and answer the five questions that follow] Omega refuses to sign the report. However, Sigma persuades another engineer, Theta, to sign the report. The cheaper parts are shipped to Good Engineering Company.",
+    "choices": {
+      "A": "ABC is committing fraud",
+      "B": "Both engineers Sigma and Theta are acting unethically",
+      "C": "Both engineers Sigma and Theta are breaking the law",
+      "D": "By acting in the interest of increasing profit illegally, ABC is jeopardizing its future",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-083",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 36 to 40 Read the following scenario and answer the five questions that follow] In judging the above case, which ethical theory would justify Omega's decision not to sign the report?",
+    "choices": {
+      "A": "Duty ethics",
+      "B": "Rights ethics",
+      "C": "Utilitarian ethics",
+      "D": "Virtue ethics",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-084",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 36 to 40 Read the following scenario and answer the five questions that follow] Replacing the metal used in fabrication of the parts with a cheaper alloy means that both ABC and its engineers",
+    "choices": {
+      "A": "May be vicariously liable",
+      "B": "Are committing fraud",
+      "C": "Are breaking the contract",
+      "D": "Are behaving unethically",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-085",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 41 to 46 Read the following scenario and answer the six questions that follow] When engineer Kappa checked the drawings for structural loadings",
+    "choices": {
+      "A": "He was correct to stamp all drawings",
+      "B": "He was supposed to check conformity to the Ontario Building Code",
+      "C": "He was responsible for all the information contained in the drawings",
+      "D": "Both (b) and (c)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L78-086",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 41 to 46 Read the following scenario and answer the six questions that follow] The proposed building was never built",
+    "choices": {
+      "A": "This fact has no bearing when evaluating engineer Kappa's behavior",
+      "B": "If the building was not built, nobody is at fault",
+      "C": "Omicron was not qualified to check the plans",
+      "D": "None of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-087",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 41 to 46 Read the following scenario and answer the six questions that follow] Engineer Kappa and his company BCEC were specialized in structural engineering and had been paid to check the integrity of the structure. The structural drawings were correct and not in violation of the Ontario Building Code. The problems were with the other drawings. Using the professional engineer stamp on all drawings was in violation of the Code of Ethics, especially",
+    "choices": {
+      "A": "2.iii",
+      "B": "1.v",
+      "C": "4",
+      "D": "3",
+      "E": "7.iii"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L78-088",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 41 to 46 Read the following scenario and answer the six questions that follow] What if engineer Kappa were diligent and had stamped only the structural drawings and had made a clear statement on all other drawings, such as plumbing and electrical, that only the structural checking was completed by him?",
+    "choices": {
+      "A": "Would not have made any difference in judging the case",
+      "B": "Would satisfy that he was doing his duty to the best of his knowledge in structural engineering",
+      "C": "Would be judged as ethical behavior",
+      "D": "Both (b) and (c)",
+      "E": "None of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L78-089",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 41 to 46 Read the following scenario and answer the six questions that follow] If the building had been built and the drawings, stamped by engineer Kappa, submitted in construction",
+    "choices": {
+      "A": "Public safety might have been endangered",
+      "B": "The owner of the building would have been in violation of the Ontario Building Code",
+      "C": "Liability in law might have occurred",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L78-090",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "[Scenario for Questions 41 to 46 Read the following scenario and answer the six questions that follow] The drawings were completed by a foreign firm, for example from the USA",
+    "choices": {
+      "A": "The laws in Canada prohibit the use of foreign firms, so the project must be done by a Canadian firm",
+      "B": "The drawings must conform with the rules and regulations in the jurisdiction for which they are intended to be used",
+      "C": "Engineer Kappa was not allowed to seal drawings done by a foreign firm",
+      "D": "A professional engineer's seal on a drawing implies that the person applying it has checked the drawing for conformity with local statutes and regulations",
+      "E": "Both (b) and (d)"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-091",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "true_false",
+    "question": "Behavior that is in accordance with accepted principles of right or good conduct in the context of a particular situation, and consistent with international norms of behavior, is considered ethical",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-092",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "true_false",
+    "question": "Canadian organizations do not need a code of conduct that deals with human rights issues because human rights abuses do not happen in Canada",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L78-093",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "true_false",
+    "question": "The ability to influence comes with the responsibility to exercise that influence",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-094",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "true_false",
+    "question": "You are accountable for harm caused by your decisions, even if you did not know your decisions would cause harm",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-095",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "true_false",
+    "question": "The most common complaint about globalization is that it widens the gap between the rich and the poor.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-096",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "As a licensed engineer in Ontario, your duty under the province's engineering code of ethics to another engineer who works for a multinational company that supplies components to your company is:",
+    "choices": {
+      "A": "Equal to your duty to protecting the public welfare",
+      "B": "Less than your duty to protecting the public welfare",
+      "C": "Greater than your duty to protecting the public welfare",
+      "D": "(a) and (b)",
+      "E": "None of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L78-097",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "As a result of an engineer's duty to himself or herself, an engineer who works for a company as an employee:",
+    "choices": {
+      "A": "Is permitted to dispute the company's requests",
+      "B": "Should keep up to date with the relevant emerging engineering codes",
+      "C": "Should uphold the intent of the engineering code of ethics",
+      "D": "(b) and (c)",
+      "E": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L78-098",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Ethical dilemmas relating to engineering activities in telecommunications equipment production can arise during the following:",
+    "choices": {
+      "A": "Choosing a supplier of electronic circuitry",
+      "B": "Exploiting newly developed intellectual property in the form of an invention",
+      "C": "Establishing a social club within the company",
+      "D": "(a) and (b)",
+      "E": "(b) and (c)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L78-099",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "From an engineering perspective, the following activities are usually inappropriate:",
+    "choices": {
+      "A": "Making a specific bid selection because it will benefit the career of your spouse, who is not an engineer and is employed with another company",
+      "B": "Actions that are intended to improve your company's internal processes and procedures",
+      "C": "Accepting an expensive gift to make a certain decision",
+      "D": "(a) and (c)",
+      "E": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L78-100",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "An engineer would be involved in professional misconduct if he or she:",
+    "choices": {
+      "A": "Disciplines an engineer who reports to him or her without investigating the situation",
+      "B": "Makes a decision when asked to do so regarding the sizing of a chemical reaction vessel in a petrochemical plant",
+      "C": "Applies his or her engineering seal to an engineering circuit diagram for a combined media player and cell phone",
+      "D": "(a) and (b)",
+      "E": "(a) and (c)"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-101",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Engineers who take on management roles in companies:",
+    "choices": {
+      "A": "Do not have to make decisions related to allocating human resources",
+      "B": "Have to ensure engineering titles are used properly",
+      "C": "Are unwise to override the judgement of engineers on technical matters without investigating carefully",
+      "D": "(b) and (c)",
+      "E": "(a) and (b)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L78-102",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Which of the following factors should be taken into account in developing an action plan when faced with an ethical dilemma?",
+    "choices": {
+      "A": "The effects on only some of the stakeholders affected by the dilemma",
+      "B": "The circumstances surrounding the dilemma and relating to those involved",
+      "C": "The details of the professional engineering code of ethics of relevance in regions unrelated to the dilemma",
+      "D": "(b) and (c)",
+      "E": "All of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L78-103",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Ethical dilemmas relating to engineering decisions in biomedical laboratories can arise in the area of:",
+    "choices": {
+      "A": "Safeguarding the intellectual property of those who develop a new treatment technology",
+      "B": "Safeguarding the rights of human subjects involved in experimental studies",
+      "C": "Safeguarding the rights of people with medical devices",
+      "D": "(a) and (b)",
+      "E": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L78-104",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "The following conduct by an engineer would almost certainly be viewed as unethical by a tribunal that makes decisions on the ethical correctness of actions taken by engineers:",
+    "choices": {
+      "A": "Carefully balancing the manner in which company financial resources are allocated",
+      "B": "Taking appropriate action on an important risk to public safety",
+      "C": "Theft of company supplies that are often used by the company, provided they are not too expensive",
+      "D": "(a) and (c)",
+      "E": "All of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L78-105",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "The code of ethics of Professional Engineers Ontario and the IEEE code of ethics:",
+    "choices": {
+      "A": "Have differences related to the different mandates of PEO and IEEE",
+      "B": "Are equally important",
+      "C": "Are approved by a common committee for engineering ethics",
+      "D": "Both relate to licensing",
+      "E": "(a), (b) and (d)"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-106",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Professional engineers who establish their own company:",
+    "choices": {
+      "A": "Often spend as much time dealing with decisions involving material and human resources, as well as relations between people",
+      "B": "Often experience high levels of stress due to their responsibilities",
+      "C": "Are not permitted to deal with technical engineering details, since they are company owners",
+      "D": "(a) and (b)",
+      "E": "(a) and (c)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L78-107",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Different parts of Ontario's code of ethics for engineers imply that engineers should:",
+    "choices": {
+      "A": "Not point out technical errors made by themselves",
+      "B": "Exaggerate technical errors made by another engineer",
+      "C": "Point out technical errors made by another engineer",
+      "D": "Not point out technical errors made by another engineer",
+      "E": "All of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L78-108",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "According to Ontario's code of ethics for engineers, an engineer is permitted to:",
+    "choices": {
+      "A": "Explain technical issues",
+      "B": "Point out risks to the welfare of the public",
+      "C": "Question another engineer's competence",
+      "D": "Point out technical errors of another engineer",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-109",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "true_false",
+    "question": "Ethical behavior is timeless and universal.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-110",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "true_false",
+    "question": "If it is legal it is always ethical.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L78-111",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "true_false",
+    "question": "Giving a bribe is ethical if it is part of the culture of the country.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L78-112",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "true_false",
+    "question": "If the impact of your decision causes harm you were probably unethical.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-113",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "true_false",
+    "question": "Organizations should be held accountable for the behavior of their suppliers.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-114",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "true_false",
+    "question": "The private sector should accept more responsibility for what was the responsibility of governments because globalization is reducing the power of governments and increasing the power of the private sector.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-115",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "true_false",
+    "question": "Being socially responsible is about making money and giving some away.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L78-116",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "true_false",
+    "question": "A Canadian engineer responsible for the environmental impact of his or her organization in a developing country should apply the same environmental standards as those used in Canada.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-117",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "true_false",
+    "question": "A sustainability report provides the framework for reporting on an organization's economic, environmental, and social performance.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-118",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "true_false",
+    "question": "You can never be accountable for harm caused by your decisions if you did not know your decisions would cause harm.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L78-119",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "true_false",
+    "question": "Ethical behavior is behavior that is in accordance with the norms of behavior of the country you are living in.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L78-120",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Ethical behavior includes",
+    "choices": {
+      "A": "Acts, omissions, risks and dependencies for which an individual or organization is responsible to those with legitimate interest",
+      "B": "The direct impact only, of decisions and activities on stakeholders",
+      "C": "Respecting the rights of your employees for equitable treatment unless forbidden by law",
+      "D": "None of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-121",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "true_false",
+    "question": "Being socially responsible is about accepting responsibility for those impacts of our decisions and activities on society and the environment, through transparent and ethical behavior",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-122",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "An organization is socially responsible when",
+    "choices": {
+      "A": "It accepts responsibilities for the impacts of its decisions on society and the environment through ethical and transparent behavior",
+      "B": "It contributes to sustainable development and the welfare of society",
+      "C": "It takes into account the expectations of the stakeholders",
+      "D": "It is in compliance with laws and is consistent with international norms of behavior",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-123",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Being socially responsible will",
+    "choices": {
+      "A": "Benefit society as well as the socially responsible organization",
+      "B": "Enhance competitiveness if applied strategically",
+      "C": "Always reduce the risk",
+      "D": "Show that \"doing good\" and \"doing what is good for business\" can be the same thing",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-124",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "true_false",
+    "question": "Canada's ecological footprint, per capita, is much better than the world average",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L78-125",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "The World Wildlife Fund's \"Living Planet Report\"",
+    "choices": {
+      "A": "Confirms that we are using the planet's resources faster than they can be renewed",
+      "B": "Shows that our impact upon the planet has more than tripled since 1961",
+      "C": "Indicates that our footprint exceeded the world's ability to regenerate by about 25 percent",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L78-126",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Which of the following statements are true",
+    "choices": {
+      "A": "Canada's GHG emissions are higher than our Kyoto commitment to be 6% below 1998 levels",
+      "B": "It is not ethical to give or accept bribes even if it is the only way you can continue to operate in a country",
+      "C": "Stakeholder engagement is good for an organization",
+      "D": "An engineer should know what the rights and risks of harm to all of his or her stakeholders are",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-127",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "true_false",
+    "question": "Paying a bribe can be ethical",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L78-128",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "true_false",
+    "question": "The degree of an organization's accountability is related to the extent of its authority",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-129",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "true_false",
+    "question": "Engaging the stakeholders in an ethical and transparent way enhances accountability to the stakeholders and overall business performance",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-130",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "An ethical organization will ensure that the conditions of work",
+    "choices": {
+      "A": "Comply with national laws and regulations where applicable",
+      "B": "Are consistent with applicable international labour standards regarding wages, hours of",
+      "C": "Allow observance of national or religious traditions and customs",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L78-131",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "true_false",
+    "question": "An organization has the responsibility to respect human rights, including within its sphere of influence",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-132",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "true_false",
+    "question": "When deployed strategically, CSR can enhance innovation, productivity and competitiveness and attract investors",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-133",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "true_false",
+    "question": "Socially responsible organizations do not have to give special consideration to vulnerable groups because they are the responsibility of governments",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L78-134",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "true_false",
+    "question": "An organization should identify issues related to the impact of its activities and decisions, and the way to address these issues so as to contribute to sustainable development",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-135",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Which of the following statements are true",
+    "choices": {
+      "A": "An engineer should respect international norms of behavior",
+      "B": "Where national law significantly conflicts with international norms, he or she should strive to respect the norms",
+      "C": "Where national law conflicts with international norms and not following these norms would have significant consequences, the engineer should review the nature of activities within that jurisdiction",
+      "D": "The engineer should seek to influence relevant organizations and authorities to remedy such conflicts",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-136",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "true_false",
+    "question": "Canadian laws concerning workers' rights and safety ensure that workers' civil, political, social, economic, and cultural rights are met",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-137",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "true_false",
+    "question": "Ethical engineers always consider the impact that their designs have on the environment and employees",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-138",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "true_false",
+    "question": "Violations of human rights are increasing because of internationalization of armed conflicts and civil wars, terrorism, HIV/AIDS and other infectious diseases, environmental issues, and natural disasters",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-139",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "true_false",
+    "question": "Ethical organizations identify and manage risks",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-140",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "true_false",
+    "question": "Engaging with your stakeholders in an ethical and transparent way enhances accountability to stakeholders and overall business performance",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-141",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "true_false",
+    "question": "An organization's responsibility for ethical labour practices only applies to the relationship of the organization with its direct employees",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L78-142",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "true_false",
+    "question": "Organizations should ensure that the principles of social responsibility addressed in their mission, vision, operating principles, and strategy are integrated into their core processes and decision-making",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-143",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "The principles of social responsibility defined in ISO 26000 include",
+    "choices": {
+      "A": "Recognition of stakeholders and concerns",
+      "B": "Transparency",
+      "C": "Respect for fundamental human rights",
+      "D": "Respect for diversity",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L78-144",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Organizations need a risk management system because",
+    "choices": {
+      "A": "Competent employees take shortcuts and unknowingly make major mistakes",
+      "B": "All organizations have one",
+      "C": "To eliminate risks",
+      "D": "It helps you find the guilty party when something goes wrong",
+      "E": "All of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L78-145",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Which of the following statements about sustainable development are true",
+    "choices": {
+      "A": "Sustainable development is about living off the capital",
+      "B": "Sustainable development is about economic growth that maximizes shareholder value",
+      "C": "Sustainable development is about meeting the needs of the present generation without compromising the ability of future generations to meet their own needs",
+      "D": "Sustainable development is about economic growth at the expense of the ecological system",
+      "E": "Sustainable development is about balance between economic growth and the depletion of irreplaceable resources"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L78-146",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "ISO 26000 is being written to",
+    "choices": {
+      "A": "Provide practical guidance related to identifying and engaging with stakeholders",
+      "B": "Increase confidence and satisfaction in organizations among their customers and other stakeholders",
+      "C": "Be consistent with and not in conflict with existing documents, international treaties, conventions, and ISO standards",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L78-147",
+    "source": "Lecture 7 & 8",
+    "topic": "Lecture 7 & 8",
+    "type": "multiple_choice",
+    "question": "Thanks to rapid advances in engineering and technology there has been a decline in",
+    "choices": {
+      "A": "The negative impact of business and society on the environment",
+      "B": "Extreme poverty arising from the acceleration of globalization",
+      "C": "Human rights violations by individuals, families, corporations, and civil society organizations",
+      "D": "None of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L910-001",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "Consider the code of ethics of the engineering society IEEE and the provincial association PEO:",
+    "choices": {
+      "A": "Both focus on licensing in the electrical and electronics engineering field",
+      "B": "Both focus on licensing in the province of Ontario",
+      "C": "There are some similarities in the two codes of ethics",
+      "D": "There are no differences in the two codes of ethics",
+      "E": "(b) and (c)"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L910-002",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "The Code of Ethics of Professional Engineers Ontario and the Code of Ethics of the IEEE engineering society:",
+    "choices": {
+      "A": "Are useful in that they allow engineers to adhere to either one or the other in order to maintain a license to practice engineering in Ontario",
+      "B": "Have similarities in areas relating to the public welfare",
+      "C": "Are both intended mainly to provide engineers with guidance on their self-interests",
+      "D": "(b) and (c)",
+      "E": "All of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L910-003",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "The Code of Ethics of Professional Engineers Ontario and the IEEE Code of Ethics:",
+    "choices": {
+      "A": "Have differences related to the different mandates of PEO and IEEE",
+      "B": "Are equally important",
+      "C": "Are approved by a common committee for engineering ethics",
+      "D": "Both relate to licensing",
+      "E": "(a), (b) and (d)"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L910-004",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "Of the duties of the engineer alluded to in PEO's engineering code of ethics, which is considered to be of paramount importance:",
+    "choices": {
+      "A": "Duty to subordinates who work under your guidance",
+      "B": "Duty to society",
+      "C": "Duty to self",
+      "D": "Duty to suppliers of raw materials used in your company",
+      "E": "Duty to your manager"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L910-005",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "Different parts of Ontario's code of ethics for engineers imply that engineers should:",
+    "choices": {
+      "A": "Not point out technical errors made by themselves",
+      "B": "Exaggerate technical errors made by another engineer",
+      "C": "Point out technical errors made by another engineer",
+      "D": "Not point out technical errors made by another engineer",
+      "E": "All of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L910-006",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "According to Ontario's code of ethics for engineers, an engineer is permitted to:",
+    "choices": {
+      "A": "Explain technical issues",
+      "B": "Point out risks to the welfare of the public",
+      "C": "Question another engineer's competence",
+      "D": "Point out technical errors of another engineer",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L910-007",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "Engineers who take on management roles in companies",
+    "choices": {
+      "A": "Can experience high levels of stress due to their managerial responsibilities",
+      "B": "Experience types of ethical conflicts and dilemmas that are no different than those experienced by other engineers in companies",
+      "C": "Usually remain directly concerned with the technical details of engineering activities",
+      "D": "Spend little time dealing with people and the issues and concerns that they have",
+      "E": "None of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L910-008",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "Engineers who take on management roles in companies",
+    "choices": {
+      "A": "Never experience high levels of stress due to their managerial responsibilities",
+      "B": "Sometimes experience types of ethical conflicts and dilemmas that are the same as those experienced by other engineers in companies",
+      "C": "Never deal with the technical details of engineering activities",
+      "D": "Spend little time dealing with decisions involving human resources",
+      "E": "None of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L910-009",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "Engineers who take on management roles in companies",
+    "choices": {
+      "A": "Do not have to make decisions related to allocating human resources",
+      "B": "Have to ensure engineering titles are used properly",
+      "C": "Are unwise to override the judgement of engineers on technical matters without investigating carefully",
+      "D": "(b) and (c)",
+      "E": "(a) and (b)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L910-010",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "An engineer working in a small company for six years is promoted to the position of Manager of Technical Services in the company. Such an engineer normally",
+    "choices": {
+      "A": "Has less demands on her time and fewer responsibilities than an engineer who works in industry in a non-managerial role",
+      "B": "Has the same demands on her time and the same responsibilities than an engineer who works in industry in a non-managerial role",
+      "C": "Does not experience ethical dilemmas because she is in charge of the company's Technical Services division and can leave day-to-day engineering to others",
+      "D": "(b) and (c)",
+      "E": "None of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L910-011",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "Engineers who take on management roles in research laboratories of the federal governments sometimes must address",
+    "choices": {
+      "A": "Ethical dilemmas faced by their employees",
+      "B": "Issues involving human resources",
+      "C": "Decisions involving financial and material resources",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L910-012",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "An engineer finds himself faced with a serious ethical dilemma in an engineering matter within a branch office of his company. Which of the following factors should he take into account in deciding the course of action to follow?",
+    "choices": {
+      "A": "The impact his decision can have on his company's engineering and non-engineering staff members",
+      "B": "The impact his decision can have on only his company's engineering staff members",
+      "C": "The impact his decision can have on only his company's engineering staff members who are employed at the branch office",
+      "D": "(b) and (c)",
+      "E": "All of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L910-013",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "An engineer who takes on an administrative management position for her company",
+    "choices": {
+      "A": "Is permitted to participate in and oversee engineering activities",
+      "B": "Is permitted to participate in and oversee design activities",
+      "C": "Is permitted to participate in and oversee non-engineering activities",
+      "D": "(a) and (b)",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L910-014",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "As a consequence of an engineer's duty to his or her employer, engineers who are employees of a company",
+    "choices": {
+      "A": "Cannot take part in collective action against the employer over an issue",
+      "B": "Can be part of and help create a labor union",
+      "C": "Can be part of a labor union, but cannot help create a labor union",
+      "D": "(a) and (c)",
+      "E": "None of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L910-015",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "An engineer who is an employee of a company",
+    "choices": {
+      "A": "Can take part in collective action against the employer over some issues",
+      "B": "Has a duty to his or her employer",
+      "C": "Cannot be part of a labor union, but can help create a labor union",
+      "D": "(a) and (b)",
+      "E": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L910-016",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "As a consequence of an engineer's duty to one's employer, an engineer who is an employee of a company",
+    "choices": {
+      "A": "Cannot take part in a strike against the employer",
+      "B": "Can be part of a labor union",
+      "C": "Cannot help expand the membership of the labor union",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L910-017",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "An engineer who is an employee of a company should, as consequence of an engineer's duty to his employer",
+    "choices": {
+      "A": "Accept all assignments given to him, regardless of what is asked",
+      "B": "Dispute the company's requests when called for, but no more than once a year",
+      "C": "Learn about new engineering process of relevance to the employer's business activities",
+      "D": "(a) and (b)",
+      "E": "None of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L910-018",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "You serve on the board of XYZ Construction Company, which is planning a development in your town. The development has attracted criticism from citizens who called a meeting to organize opposition. You attended the meeting and spoke in favor of the development. Which one of the following options is most consistent with professional ethical principles?",
+    "choices": {
+      "A": "Speak in favor of the development without identifying your affiliation with XYZ, because your support is based solely on the merit of the project",
+      "B": "Speak in favor of the development without identifying your affiliation with XYZ, because you have as much right as anyone in your town to voice your opinion",
+      "C": "Speak in favor of the development and preface your statement by identifying yourself as an engineer whose opinion is supported by engineering analysis, but without identifying your affiliation with XYZ",
+      "D": "Speak in favor of the development and preface your statement by identifying your affiliation with XYZ, also stating you are exercising your right as a citizen"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L910-019",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "You are a registered engineer working for a large design and construction firm. You would like to be more independent, so you decide to practice your entrepreneurial spirit by taking on very small design contracts on your own, working evenings and weekends to meet the contracts. You do not inform your supervisor of your activity, but your firm would not consider bidding on these small contracts, as they would be more bother than they are worth. Is this a conflict of interest situation?",
+    "choices": {
+      "A": "Yes",
+      "B": "No"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L910-020",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "Which of the following is an actual conflict of interest?",
+    "choices": {
+      "A": "Serving on a code-and-standards committee for your own industry sector",
+      "B": "Voting in a public election on an environmental issue that directly affects your business",
+      "C": "Developing a site plan for a highway construction project in your own home community",
+      "D": "Accepting a coffee mug with one of your suppliers business logo",
+      "E": "None of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L910-021",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "Professional engineers who establish their own company",
+    "choices": {
+      "A": "Often spend as much time dealing with decisions involving material and human resources, as well as relations between people",
+      "B": "Often experience high levels of stress due to their responsibilities",
+      "C": "Are not permitted to deal with technical engineering details, since they are company owners",
+      "D": "(a) and (b)",
+      "E": "(a) and (c)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L910-022",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "An engineer who quits a company in order to establish and run her own engineering company is likely to find herself facing",
+    "choices": {
+      "A": "Fewer ethical dilemmas than when she was working at her past company as an engineer",
+      "B": "More ethical dilemmas than when she was working at her past company as an engineer",
+      "C": "Fewer ethical dilemmas than other engineers who work at her past company as engineers",
+      "D": "More ethical dilemmas than other engineers who work at her past company as engineers",
+      "E": "(b) and (d)"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L910-023",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "A professional engineer in Ontario offering engineering services directly to the public",
+    "choices": {
+      "A": "Requires a Certificate of Authorization",
+      "B": "Always needs professional liability insurance of no less than $100,000",
+      "C": "Need not have liability insurance, but then must satisfy other requirements",
+      "D": "(a) and (c)",
+      "E": "None of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L910-024",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "A professional engineer in Ontario offering engineering services directly to the public",
+    "choices": {
+      "A": "Does not need to have a Certificate of Authorization",
+      "B": "Needs professional liability insurance exceeding $100,000",
+      "C": "Does not need to have liability insurance and does not need to notify clients about this",
+      "D": "(a) and (b)",
+      "E": "None of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L910-025",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "In order to receive the designation \"Consulting Engineer\" in the province of Ontario from the PEO, you must satisfy which of the following requirements?",
+    "choices": {
+      "A": "Be a licensed member of the PEO in good standing for at least 5 years",
+      "B": "Be continuously engaged in private practice for at least 2 years",
+      "C": "Pass or be exempted from exams prescribed by the PEO",
+      "D": "All of the above",
+      "E": "(a) and (b) above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L910-026",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "Which of the following statements regarding advertising for engineering work is inappropriate?",
+    "choices": {
+      "A": "Advertising that promotes the company offering engineering services by providing text that implies the company is responsible for engineering activities in which it was not involved",
+      "B": "Advertising that points out weakness in other companies offering engineering services",
+      "C": "Advertising that seeks to gain public attention by exaggerating the abilities of the company to provide engineering services",
+      "D": "(b) and (c)",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L910-027",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "Which of the following statements regarding advertising for engineering work is appropriate?",
+    "choices": {
+      "A": "Advertising that promotes the company offering engineering services by showing pictures that imply the company is responsible for engineering activities in which it was not actually involved",
+      "B": "Advertising that points out weakness in other companies offering engineering services",
+      "C": "Advertising that seeks to gain public attention by exaggerating the abilities of the company to provide engineering services",
+      "D": "Advertising that seeks to increase business opportunities by providing abundant factual information on the company's experiences and qualifications",
+      "E": "None of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L910-028",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "One aspect of the PEO Code of Ethics for engineers indicates that an engineer should",
+    "choices": {
+      "A": "Point out technical errors of another engineer, but not point out unethical behaviour",
+      "B": "Constructively point out technical errors made by another engineer",
+      "C": "Spread untrue information about the company owned by another engineer",
+      "D": "(a) and (c)",
+      "E": "All of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L910-029",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "An engineer is likely guilty of professional misconduct if she has",
+    "choices": {
+      "A": "Loaned her engineering seal to another engineer who has not yet become a licensed engineer",
+      "B": "Applied her engineering seal to an engineering drawing that was prepared very carefully by another engineer, but that she has not looked over",
+      "C": "Used her engineering seal to seal complete and final engineering plans that she has prepared",
+      "D": "(a) and (b)",
+      "E": "(a) and (c)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L910-030",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "Ethical dilemmas relating to engineering decisions in biomedical laboratories can arise in the area of",
+    "choices": {
+      "A": "Safeguarding the intellectual property of those who develop a new treatment technology",
+      "B": "Safeguarding the rights of human subjects involved in experimental studies",
+      "C": "Safeguarding the rights of people with medical devices",
+      "D": "(a) and (b)",
+      "E": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L910-031",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "You are presenting the experimental work of a multidisciplinary biomedical research team at an engineering conference. One of your colleagues, Jim, has just completed mathematical modeling of the experimental data two days prior to the presentation and has agreed to let you use the results. Jim's name is not on the paper because the abstract and paper were completed two months prior to the conference. What is the most appropriate way to recognize his contribution?",
+    "choices": {
+      "A": "There is no need to recognize Jim's contribution because the abstract and paper were completed two months prior to the conference",
+      "B": "There is no need to recognize Jim's contribution because he has agreed to let you use his work",
+      "C": "Mention in your talk that the mathematical modeling was carried out by Jim",
+      "D": "Add the statement \"mathematical modeling by Jim\" in the slide"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L910-032",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "The purpose of licensing engineering corporation is",
+    "choices": {
+      "A": "Protect the public against incompetence, negligence and professional misconduct",
+      "B": "Identifying the individuals responsible for engineering services",
+      "C": "Allowing the corporation to charge higher engineering fees",
+      "D": "(a) and (b)",
+      "E": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L910-033",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "In the Code of Ethics of Professional Engineers Ontario, the duty of one engineer to another engineer who works for a financial management company in the Industrial Engineering Department",
+    "choices": {
+      "A": "Is not applicable since financial management companies do not undertake engineering",
+      "B": "Would be different if the engineer worked in the Facilities Engineering Department of the financial management company",
+      "C": "Would be the same if the engineer worked in the Facilities Engineering Department of the financial management company",
+      "D": "(a) and (c)",
+      "E": "None of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L910-034",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "You find yourself facing an ethical dilemma regarding an engineering matter in a multinational company operating in Singapore. The factors you should take into account in deciding your course of action include the following",
+    "choices": {
+      "A": "The number of workers who may die as a consequence of your decision",
+      "B": "The number of people in the general population who may die as a consequence of your",
+      "C": "The number of workers who may lose money as a consequence of your decision",
+      "D": "The number of people in the general population who may lose money as a consequence of your decision",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L910-035",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "The appropriate course of action is usually straightforwardly identified for an engineer faced with an ethical dilemma when",
+    "choices": {
+      "A": "The actions involved in the dilemma are illegal and unethical",
+      "B": "The only harm likely to result from the actions involved in the dilemma is financial",
+      "C": "No one is likely to be financially harmed",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L910-036",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "A requirement for maintaining competence to practice engineering is that an engineer",
+    "choices": {
+      "A": "Maintain membership in a professional engineering society",
+      "B": "Take a continuing education course for credit at least once every two years",
+      "C": "Read the monthly magazine for your engineering discipline",
+      "D": "Maintain current knowledge of your discipline",
+      "E": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L910-037",
+    "source": "Lecture 9 & 10",
+    "topic": "Lecture 9 & 10",
+    "type": "multiple_choice",
+    "question": "Which of the following is NOT a characteristic of a profession?",
+    "choices": {
+      "A": "Specialized knowledge",
+      "B": "Responsibility to the public",
+      "C": "Self-regulation",
+      "D": "High salary"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L1112-001",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "Unknowingly failing to comply with laws and regulations is an example of unethical behavior.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-002",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "An engineer who considers the impact that his / her design (either products, processes or services) has on the environment or on employees is acting ethically.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-003",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "Sustainable development is about incremental change.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L1112-004",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "Sustainable development is concerned with innovation and organizational renewal.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-005",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "Electronic communications have dramatically decreased human collaboration in every field and between all countries.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L1112-006",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "The following diagram accurately depicts Edwards Deming's \"Continual Improvement Loop\" (Diagram Components: Plan -> Do -> Check -> Act).",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-007",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "International standards, when implemented correctly, contribute to sustainable development and ethical globalization.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-008",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "A Quality Management System allows an organization to demonstrate its ability to satisfy customers through the provision of products and services that consistently meet customer and regulatory requirements while maintaining a process for continual improvement.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-009",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "The rapid advancements in science and technology have enabled the environment to absorb unprecedented growth in human activity.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L1112-010",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "Communities now recognize the need for engineers to use technology to study the impact of human activity on the environment in order to ensure that all development is sustainable.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-011",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "Ontario is one of the top ten polluters in North America.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-012",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "An engineer has an obligation and a responsibility for safeguarding life, health, property and the safety and welfare of the public.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-013",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "Not every engineering project effects the environment.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L1112-014",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "Engineers alone can provide the solutions to environmental problems.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L1112-015",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "The ISO 14001 standard requires an organization to establish and maintain procedures to identify the environmental aspects of its products, services and activities that it can control and over which it can be expected to have an influence.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-016",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "Engineers are not responsible for knowing which laws and regulations or industry standards relate to what their organization does.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L1112-017",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "ISO 14001 requires only that an organization have a plan in place for compliance to laws, regulations and standards, not that it be in compliance at the time of its registration audit.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L1112-018",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "OHSAS 18001 is a health and safety standard developed by the International Organization for Standardization.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-019",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "All risks are a result of hazards, but not all hazards create risks.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-020",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "The development voluntary technical standards is an objective of the International Organization for Standardization.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-021",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "The increase of easier and fairer international trade is an objective of the International Organization for Standardization.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-022",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "The creation of non-tariff trade barriers through the enforcement of European based standards is an objective of the International Organization for Standardization.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-023",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "The provision of safeguards for consumers and users is an objective of the International Organization for Standardization.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-024",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "The development of safer, cleaner and more efficient products and services is an objective of the International Organization for Standardization.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-025",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "Which of the following statements about sustainable development is NOT true?",
+    "choices": {
+      "A": "Sustainable development is about living off the interest not the capital",
+      "B": "Sustainable development is about economic growth that maximizes shareholder value",
+      "C": "Sustainable development is about economic growth that does not deplete irreplaceable resources",
+      "D": "Sustainable development is about economic growth that does not destroy that ecological system",
+      "E": "Sustainable development is about economic growth that helps to reduce gross social inequalities"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L1112-026",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "The rapid development of technology",
+    "choices": {
+      "A": "Presents major opportunities for society",
+      "B": "Must be guided toward sustainable development and global prosperity",
+      "C": "Presents major dangers for society",
+      "D": "All of the above",
+      "E": "Only (a) and (c)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L1112-027",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "The driving force(s) behind the development of International Standards does NOT include",
+    "choices": {
+      "A": "The ability to demonstrate conformance with requirements, laws, regulations and expectations.",
+      "B": "The harmonization of standards that affect trade",
+      "C": "The continual improvement of customer and stakeholder satisfaction",
+      "D": "Providing industrialized countries with non-tariff trade barriers to import from developing countries"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L1112-028",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "The reason an organization implements a management system is",
+    "choices": {
+      "A": "To ensure everyone understands who is responsible for doing what, when, why, where and how",
+      "B": "To ensure they know who to blame when a problem occurs",
+      "C": "To ensure money and resources are used effectively and efficiently",
+      "D": "To ensure nothing important is forgotten"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-029",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "The beneficiaries of an organization that meets the principles of quality management include",
+    "choices": {
+      "A": "The customers and employees",
+      "B": "Shareholders",
+      "C": "Society",
+      "D": "Suppliers",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L1112-030",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "The following statements are examples of a Ryerson student's desired outcomes when posed the question \"What would Ryerson be doing for students if it was excellent?\"",
+    "choices": {
+      "A": "Providing skills necessary to obtain employment with field of study",
+      "B": "Providing education by knowledgeable professors",
+      "C": "Providing adequate facilities for the transfer of knowledge",
+      "D": "Providing necessary resources to facilitate the learning process",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L1112-031",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "With respect to the government, the engineer's role is to assess and communicate the broader implications of designs and activities with respect to",
+    "choices": {
+      "A": "Public welfare",
+      "B": "Environmental, health and safety impacts",
+      "C": "Risk minimization and management",
+      "D": "Social, economic and cultural values",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L1112-032",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "An organization taking a proactive approach to the environment and sustainable development would implement ISO 14001 for the following reason",
+    "choices": {
+      "A": "Customer demand",
+      "B": "Government demand",
+      "C": "Marketing opportunities",
+      "D": "A reduction in possible liability and improvement in confidence, along with positive bottom line",
+      "E": "To obtain a certificate confirming conformance to ISO 14001"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L1112-033",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "The organization is responsible to set environmental objectives relating to",
+    "choices": {
+      "A": "All of the impacts they have on the environment",
+      "B": "Only the significant impacts they have on the environment"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-034",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "An organization whose activities include the combustion of fossil fuels would likely have the following environmental impacts",
+    "choices": {
+      "A": "Greenhouse gases",
+      "B": "Solid waste",
+      "C": "Noise",
+      "D": "Landfill"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-035",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "The potential risk created by the hazard of noise in a sheet metal factory is",
+    "choices": {
+      "A": "Physical injury",
+      "B": "Hearing loss",
+      "C": "Carpal tunnel syndrome",
+      "D": "Fire",
+      "E": "Temperature excursions"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L1112-036",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "Is a professional engineer required to keep abreast of new developments in his / her field of engineering?",
+    "choices": {
+      "A": "Yes, because it is interesting to do so",
+      "B": "Yes, if they are active in the practice of engineering",
+      "C": "No, because it is acceptable to rely on what was taught in university",
+      "D": "No, unless an employer is willing to pay for the engineer to take the university courses while employed",
+      "E": "None of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L1112-037",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "When is it acceptable for a professional engineer not to keep up with new developments in his/ her field of engineering?",
+    "choices": {
+      "A": "When the topics of relevance are not interesting",
+      "B": "When the previously used techniques and methods are easier to apply",
+      "C": "When the topics of relevance were not taught in university",
+      "D": "When an employer does not pay for the engineer to take university courses",
+      "E": "None of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L1112-038",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "Professional misconduct in the practice of engineering",
+    "choices": {
+      "A": "Can include incompetence and corruption, but excludes negligence",
+      "B": "Can be the cause of disciplinary action only by the government, and not by the provincial or territorial engineering association",
+      "C": "Can lead to a member of the provincial or territorial association being reprimanded and, in severe cases, expelled or suspended",
+      "D": "Is only a matter relating to the integrity of the profession, and does not in general constitute a threat to the public welfare",
+      "E": "None of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L1112-039",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "Clause 7(iii) in Ontario's Code of Ethics for engineers implies that an engineer",
+    "choices": {
+      "A": "Should point out, but not boast about, technical errors made by another engineer",
+      "B": "Should spread distorted information about another engineer's business",
+      "C": "Should ignore technical errors of another engineer, for fear of harming his/ her reputation",
+      "D": "(a) and (c)",
+      "E": "None of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-040",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "Clause 7(iii) in Ontario's Code of Ethics for engineers implies that an engineer",
+    "choices": {
+      "A": "Should not point out technical errors made by another engineer",
+      "B": "Should spread unfounded rumors about another engineer's business",
+      "C": "Should not testify honestly in a court of law about the unethical behavior of another engineer, for fear of harming his/ her reputation",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L1112-041",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "Which of the following factors should be taken into account in making decisions regarding an ethical dilemma?",
+    "choices": {
+      "A": "Details of the circumstances relating to the dilemma, excluding who is involved",
+      "B": "The impact your decision can have on all stakeholders",
+      "C": "The impact the decision can have on your take-home pay",
+      "D": "(a) and (b)",
+      "E": "None of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L1112-042",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "Which of the following factors should be taken into account in making decisions regarding an ethical dilemma?",
+    "choices": {
+      "A": "Details of the circumstances relating to the dilemma, including who is involved",
+      "B": "The impact you decision can have on all stakeholders",
+      "C": "Factors that can be quantified",
+      "D": "(a) and (b)",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L1112-043",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "The moral theory in which actions are judged more by their consequences than anything else is called",
+    "choices": {
+      "A": "Rights ethics",
+      "B": "Virtue ethics",
+      "C": "Duty ethics",
+      "D": "Utilitarianism",
+      "E": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L1112-044",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "Which of the following moral theories provides ethical guidance for all situations",
+    "choices": {
+      "A": "Rights ethics",
+      "B": "Virtue ethics",
+      "C": "Duty ethics",
+      "D": "Utilitarianism",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L1112-045",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "Which of the following moral theories provides ethical guidance for all situations",
+    "choices": {
+      "A": "Rights ethics and duty ethics",
+      "B": "Virtue ethics and duty ethics",
+      "C": "Duty ethics",
+      "D": "Utilitarianism and duty ethics",
+      "E": "None of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L1112-046",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "In Aristotle's virtue ethics, the personal attribute \"careful\" could be considered the golden mean between \"thoughtless\" and",
+    "choices": {
+      "A": "Haphazard",
+      "B": "Overly cautious",
+      "C": "Disorderly",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L1112-047",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "In Aristotle's virtue ethics, the personal attribute \"concise\" could be considered the golden mean between \"overly concise\" and",
+    "choices": {
+      "A": "Cautious",
+      "B": "Wordy",
+      "C": "Orderly",
+      "D": "(b) and (c)",
+      "E": "None of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L1112-048",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "In most, if not all, engineering codes of ethics, which duty of the engineer is considered the most significant?",
+    "choices": {
+      "A": "Duty to clients",
+      "B": "Duty to subordinates and others who work under your supervision (and therefore are somewhat at your mercy)",
+      "C": "Duty to society",
+      "D": "Duty to oneself",
+      "E": "Duty to co-workers"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L1112-049",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "Engineering societies in Canada",
+    "choices": {
+      "A": "Do not exist in most major engineering disciplines",
+      "B": "Often run conferences to help keep engineers aware of new developments in the field of engineering",
+      "C": "Have similar roles to the provincial and territorial engineering associations",
+      "D": "Never have code of ethics because such codes are responsibility of the provincial and territorial associations",
+      "E": "None of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L1112-050",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "Some characteristics and skills that engineers are expected to possess include",
+    "choices": {
+      "A": "The ability to understand the economic aspects of engineering products and services",
+      "B": "The ability to work in teams, except when some of the team members are non-engineers",
+      "C": "An ability to solve problems",
+      "D": "An understanding of the ethical, legal and societal ramifications of their activities",
+      "E": "All of the above except (b)"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L1112-051",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "Engineering teams that have moderate levels of conflict among the team members are often",
+    "choices": {
+      "A": "Dysfunctional",
+      "B": "Chaotic and uncooperative at all times",
+      "C": "Characterized by high productivity and performance",
+      "D": "Apathetic towards new ideas and improvement",
+      "E": "None of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L1112-052",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "Engineering teams that have low levels of conflict among the team members are often",
+    "choices": {
+      "A": "Not hard working",
+      "B": "Chaotic and uncooperative at all times",
+      "C": "Characterized by high productivity and performance",
+      "D": "Apathetic towards new ideas and improvement",
+      "E": "None of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L1112-053",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "An example of professional misconduct would be the act of",
+    "choices": {
+      "A": "Applying your engineering seal to engineering plans that you have prepared",
+      "B": "Applying your engineering seal to an engineering drawing that you did not prepare, but which was prepared under your direct supervision",
+      "C": "Applying your engineering seal to an engineering plan that you have not thoroughly reviewed",
+      "D": "(a) and (b)",
+      "E": "(a) and (c)"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L1112-054",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "An example of professional misconduct regarding use of your engineering seal would be",
+    "choices": {
+      "A": "Applying your engineering seal to engineering plans that you have prepared, but you do not feel are adequately done",
+      "B": "Applying your engineering seal to an engineering drawing that you did not prepare, but which was prepared under your direct supervision and which you have reviewed",
+      "C": "Applying your engineering seal to an engineering plan that you have not thoroughly reviewed",
+      "D": "(a) and (b)",
+      "E": "(a) and (c)"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L1112-055",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "Although the original licensing laws relating to engineering in Canada's provinces and territories were \"open,\" meaning obtaining a license to practice engineering was voluntary, the present laws are different. Which statement characterizes the present laws?",
+    "choices": {
+      "A": "A license is needed to practice engineering business",
+      "B": "An engineering graduate who does not have a license can offer engineering services to the public",
+      "C": "The present laws are \"closed,\" but there is no restriction on the use of the term Professional Engineer",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-056",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "In all Canadian provinces and territories, the laws regarding the requirement to get licenses to practice engineering are considered as a \"closed\" profession. That means that",
+    "choices": {
+      "A": "It is voluntary to get licensed",
+      "B": "It is mandatory to get licensed to practice engineering",
+      "C": "Only lawful for Canadian educated engineers to get a license",
+      "D": "New licenses are only issued after a licensed engineer retires",
+      "E": "There are limited number of engineer licenses"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L1112-057",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "The original licensing laws relating to engineering in Canada's provinces and territories were \"open,\" meaning obtaining a license to practice engineering was voluntary. Which statement characterizes the present laws?",
+    "choices": {
+      "A": "A license is needed to practice engineering business",
+      "B": "An engineering graduate who does not have a license cannot offer engineering services to the public",
+      "C": "The present laws are \"closed\" and there is a restriction on the use of the term Professional Engineer",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L1112-058",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "Which of the following is an implication of the engineering profession being self-regulating in Canada?",
+    "choices": {
+      "A": "The provincial and territorial engineering associations are responsible for disciplining members who violate the code of ethics",
+      "B": "The provincial and territorial governments are directly responsible for the granting of licenses",
+      "C": "The provincial and territorial governments evaluate the credentials of an applicant to the provincial or territorial association",
+      "D": "(b) and (c)",
+      "E": "None of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-059",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "In all Canadian provinces and territories, the profession of engineering is a self-regulating profession. This means that",
+    "choices": {
+      "A": "The premier of the province/ territory appoints board members to the engineering regulatory",
+      "B": "The legislature sets all rules and regulations that professional engineers must abide by",
+      "C": "Licensed professional engineers elect their governing boards which in turn set the regulations, bylaws and code of ethics for all professional engineers",
+      "D": "You must be a member of a technical society to be a licensed professional engineer",
+      "E": "(a) and (b) above"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L1112-060",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "Which of the following is an implication of the engineering profession being self-regulating in Canada?",
+    "choices": {
+      "A": "The provincial and territorial engineering associations are not responsible for disciplining members who violate the code of ethics",
+      "B": "The engineering societies are responsible for the granting of licenses",
+      "C": "The provincial and territorial governments evaluate the credentials of people coming from outside Canada, who apply for membership to a provincial or territorial association",
+      "D": "(b) and (c)",
+      "E": "None of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L1112-061",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "Ethical dilemmas relating to engineering activities in entertainment companies (like movie producers and theme park operators) can arise during the following",
+    "choices": {
+      "A": "Choosing a supplier of robotic dinosaurs, where the engineering making the choice is biased",
+      "B": "Choosing a supplier of robotic dinosaurs, where the engineer making the choice is not biased, but is perceived to be",
+      "C": "The selection of software engineering tools for movie special effects from two competing providers of such tools",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L1112-062",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "Ethical dilemmas relating to engineering matters never arise in the area of",
+    "choices": {
+      "A": "Decision making where the engineer is seen as potentially biased",
+      "B": "Intellectual property protection for purposes of obtaining a patent",
+      "C": "The selection of engineering textbooks for university courses",
+      "D": "Matters involving the health of members of the public",
+      "E": "None of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L1112-063",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "Ethical dilemmas relating to engineering matters are likely to arise in the area of",
+    "choices": {
+      "A": "A perceived conflict of interest that may cause the decision of an engineer to be seen as biased",
+      "B": "Intellectual property protection for purposes of obtaining a patent",
+      "C": "International engineering activities",
+      "D": "Matters involving worker safety",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L1112-064",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "The appropriate course of action is usually easily identified (and therefore ethical dilemmas are not common) in situations where the actions and events are",
+    "choices": {
+      "A": "Illegal yet ethical",
+      "B": "Illegal and unethical",
+      "C": "Unethical but legal",
+      "D": "(b) and (c)",
+      "E": "All of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L1112-065",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "Professional engineering is almost always defined to include",
+    "choices": {
+      "A": "Work that involves the utilization of engineering theories",
+      "B": "Providing opinions of engineering matters",
+      "C": "Work that involves safety",
+      "D": "(b) and (c)",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L1112-066",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "The practice of professional engineering is in most, if not all, definitions taken to include",
+    "choices": {
+      "A": "Work that involves the utilization of engineering knowledge and theories",
+      "B": "Work that involves providing advice on engineering matters",
+      "C": "Work in the basic sciences (e.g., chemistry, physics)",
+      "D": "(a) and (b)",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L1112-067",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "Engineers who take on management roles in companies",
+    "choices": {
+      "A": "Can experience high levels of stress due to their managerial responsibilities",
+      "B": "Experience types of ethical conflicts and dilemmas that are no different than those experienced by other engineers in companies",
+      "C": "Usually remain directly concerned with the technical details of engineering activities",
+      "D": "Spend little time dealing with people and the issues and concerns that they have",
+      "E": "None of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-068",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "Engineers who take on management roles in companies",
+    "choices": {
+      "A": "Never experience high levels of stress due to their managerial responsibilities",
+      "B": "Sometimes experience types of ethical conflicts and dilemmas that are the same as those experienced by other engineers in companies",
+      "C": "Never deal with the technical details of engineering activities",
+      "D": "Spend little time dealing with decisions involving human resources",
+      "E": "None of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L1112-069",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "Engineers who take on management roles in companies",
+    "choices": {
+      "A": "Do not have to make decisions related to allocating human resources",
+      "B": "Have to ensure engineering titles are used correctly",
+      "C": "Are unwise to override the judgement of engineers on technical matters without investigating the matter carefully",
+      "D": "(b) and (c)",
+      "E": "(a) and (b)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L1112-070",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "A professional engineer in Ontario offering engineering services directly to the public",
+    "choices": {
+      "A": "Requires a Certificate of Authorization",
+      "B": "Always needs professional liability insurance of no less than $1,00,000",
+      "C": "Need not have liability insurance, but then must satisfy other requirements",
+      "D": "(a) and (c)",
+      "E": "None of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L1112-071",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "A professional engineer in Ontario offering engineering services directly to the public",
+    "choices": {
+      "A": "Does not need to have a Certificate of Authorization",
+      "B": "Needs professional liability insurance exceeding $100,000",
+      "C": "Does not need to have liability insurance and does not need to notify clients about this",
+      "D": "(a) and (b)",
+      "E": "None of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L1112-072",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "As a consequence of an engineer's duty to his/ her employer, engineers who are employees of a company",
+    "choices": {
+      "A": "Cannot take part in collective action against the employer over an issue",
+      "B": "Can be part of and help create a labor union",
+      "C": "Can be part of a labor union, but cannot help create a labor union",
+      "D": "(a) and (c)",
+      "E": "None of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L1112-073",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "An engineer who is an employee of a company",
+    "choices": {
+      "A": "Can take part in collective action against the employer over some issues",
+      "B": "Has a duty to his/ her employer",
+      "C": "Cannot be part of a labor union, but can help create a labor union",
+      "D": "(a) and (b)",
+      "E": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L1112-074",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "Which of the following statements regarding advertising for engineering work is inappropriate?",
+    "choices": {
+      "A": "Advertising that promotes the company offering engineering services by providing text that",
+      "B": "Advertising that points out weakness in other companies offering engineering services",
+      "C": "Advertising that seeks to gain public attention by exaggerating the abilities of the company to provide engineering services",
+      "D": "(b) and (c)",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L1112-075",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "Which of the following statements regarding advertising for engineering work is appropriate?",
+    "choices": {
+      "A": "Advertising that promotes the company offering engineering services by showing pictures that imply the company is responsible for engineering activities in which it was not actually involved",
+      "B": "Advertising that points out weakness in other companies offering engineering services",
+      "C": "Advertising that seeks to gain public attention by exaggerating the abilities of the company to provide engineering services",
+      "D": "Advertising that seeks to increase business opportunities by providing abundant factual information on the company's experiences and qualifications",
+      "E": "None of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L1112-076",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "Corporate social responsibility (CSR) is about",
+    "choices": {
+      "A": "Maximizing shareholders profits and obeying the laws",
+      "B": "Responding to the interests of human rights, the environment, employees, suppliers, customers and communities",
+      "C": "Creating jobs in countries with less stringent environmental laws",
+      "D": "Governments leaving it up to corporations to implement CSR policies"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L1112-077",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "Social Responsibility (SR) is about",
+    "choices": {
+      "A": "Maximizing shareholders profits and obeying the laws",
+      "B": "The responsibility of an organization for the impacts of its decisions and activities on society and environment",
+      "C": "Creating jobs in countries with less stringent environmental laws",
+      "D": "Governments leaving it up to corporations to implement SR policies",
+      "E": "All of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L1112-078",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "A process for Social Responsibility and Sustainable Development could result in",
+    "choices": {
+      "A": "Increasing sales",
+      "B": "Reducing cost",
+      "C": "Identifying and managing risk",
+      "D": "All of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L1112-079",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "Agent 21 from the UN Conference on Environment and Development defines 25 Principles intended to",
+    "choices": {
+      "A": "Reduce disparities between and within nations",
+      "B": "Provide a balances and integrated approach to environment and development questions",
+      "C": "Establish a new and equitable global partnership through the creation of new levels of cooperation among states, key sectors of society and people",
+      "D": "Ensure that special attention is given to countries facing unprecedented challenges in transforming their economies",
+      "E": "All of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L1112-080",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "In most engineering code of ethics, the duty of the engineer to subordinates and others who work under your supervision (and therefore are somewhat at your mercy) is considered to be",
+    "choices": {
+      "A": "Of paramount importance",
+      "B": "Not that significant",
+      "C": "Equivalent to the engineer's duty to society",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L1112-081",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "Engineering societies in Canada",
+    "choices": {
+      "A": "Exist is most major engineering disciplines, but not in any smaller ones",
+      "B": "Often public journals to help keep engineers aware of new developments in the field of engineering",
+      "C": "Have different roles than the provincial and territorial engineering associations",
+      "D": "(b) and (c)",
+      "E": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L1112-082",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "Engineers are expected to possess the following skills and characteristics",
+    "choices": {
+      "A": "The ability to understand the economic aspects of engineering products and services",
+      "B": "The ability to work in teams, with engineers and non-engineers",
+      "C": "An understanding of the ethical and environmental ramifications of their activities",
+      "D": "(a) and (c)",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L1112-083",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "Bribery is",
+    "choices": {
+      "A": "Illegal",
+      "B": "Immoral",
+      "C": "Unethical",
+      "D": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L1112-084",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "You serve on the board of XYZ Construction Company, which is planning a development in your town. The development has attracted criticism from citizens who called a meeting to organize opposition. You attended the meeting and spoke in favor of the development. Which one of the following options is most consistent with professional ethical principles?",
+    "choices": {
+      "A": "Speak in favor of the development without identifying your affiliation with XYZ, because your support is based solely on the merit of the project",
+      "B": "Speak in favor of the development without identifying your affiliation with XYZ, because you have as much right as anyone in your town to voice your opinion",
+      "C": "Speak in favor of the development and preface your statement by identifying yourself as an engineer whose opinion is supported by engineering analysis, but without identifying your affiliation with XYZ",
+      "D": "Speak in favor of the development and preface your statement by identifying your affiliation with XYZ, also stating you are exercising your right as a citizen"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L1112-085",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "You are a registered engineer working for a large design and construction firm. You would like to be more independent, so you decide to practice your entrepreneurial spirit by taking on very small design contracts on your own, working evenings and weekends to meet the contracts. You do not inform your supervisor of your activity, but your firm would not consider bidding on these small contracts, as they would be more bother than they are worth. Is this a conflict of interest situation?",
+    "choices": {
+      "A": "Yes",
+      "B": "No"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-086",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "A requirement for maintaining competence to practice engineering is that an engineer",
+    "choices": {
+      "A": "Maintain membership in a professional engineering society",
+      "B": "Take a continuing education course for credit at least once every two years",
+      "C": "Read the monthly magazine for your engineering discipline",
+      "D": "Maintain current knowledge of your discipline"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L1112-087",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "Which of the following is NOT a characteristic of a profession?",
+    "choices": {
+      "A": "Specialized knowledge",
+      "B": "Responsibility to the public",
+      "C": "Self-regulation",
+      "D": "High salary"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L1112-088",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "You are presenting the experimental work of a multidisciplinary biomedical research team at an engineering conference. One of your colleagues, Jim, has just completed mathematical modeling of the experimental data two days prior to the presentation and has agreed to let you use the results. Jim's name is not on the paper because the abstract and paper were completed two months prior to the conference. What is the most appropriate way to recognize his contribution?",
+    "choices": {
+      "A": "There is no need to recognize Jim's contribution because the abstract and paper were completed two months prior to the conference",
+      "B": "There is no need to recognize Jim's contribution because he has agreed to let you use his work",
+      "C": "Mention in your talk that the mathematical modeling was carried out by Jim",
+      "D": "Add the statement \"mathematical modeling by Jim\" in the slide"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L1112-089",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "Ethics is the study of",
+    "choices": {
+      "A": "Good/ evil",
+      "B": "Right/ wrong",
+      "C": "Nice/ bad",
+      "D": "Helpful/ harmful",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L1112-090",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "The purpose of licensing engineering corporation is",
+    "choices": {
+      "A": "Protect the public against incompetence, negligence and professional misconduct",
+      "B": "Identifying the individuals responsible for engineering services",
+      "C": "Allowing the corporation to charge higher engineering fees",
+      "D": "(a) and (b)",
+      "E": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L1112-091",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "In the Code of Ethics of Professional Engineers Ontario, the duty of one engineer to another engineer who works for financial management company in the Industrial Engineering Department",
+    "choices": {
+      "A": "Is not applicable since financial management companies do not undertake engineering",
+      "B": "Would be different if the engineer worked in the Facilities Engineering Department of the financial management company",
+      "C": "Would be the same if the engineer worked in the Facilities Engineering Department of the financial management company",
+      "D": "(a) and (c)",
+      "E": "None of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L1112-092",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "You find yourself facing an ethical dilemma regarding an engineering matter in a multinational company operating in Singapore. The factors you should take into account in deciding your course of action include the following",
+    "choices": {
+      "A": "The number of worked who may die as a consequence of your decision",
+      "B": "The number of people in the general population who may die as a consequence of your decision",
+      "C": "The number of worked who may lose money as a consequence of your decision",
+      "D": "The number of people in the general population who may lose money as a consequence of your decision",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L1112-093",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "The appropriate course of action is usually straightforwardly identified for an engineer faced with an ethical dilemma when",
+    "choices": {
+      "A": "The actions involved in the dilemma are illegal and unethical",
+      "B": "The only harm likely to result from the actions involved in the dilemma is financial",
+      "C": "No one is likely to be financially harmed",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-094",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "An engineer working in a small company for six years is promoted to the position of Manager of Technical Services in the company. Such an engineer normally",
+    "choices": {
+      "A": "Has less demands on her time and fewer responsibilities than an engineer who works in industry in a non-managerial role",
+      "B": "Has the same demands on her time and the same responsibilities than an engineer who works in industry in a non-managerial role",
+      "C": "Does not experience ethical dilemmas because she is in charge of the company's Technical Services division and can leave day-to-day engineering to others",
+      "D": "(b) and (c)",
+      "E": "None of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "L1112-095",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "The Code of Ethics of Professional Engineers Ontario and the Code of Ethics of the IEEE engineering society",
+    "choices": {
+      "A": "Are useful in that they allow engineers to adhere to either one or the other in order to maintain a license to practice engineering in Ontario",
+      "B": "Have similarities in areas relating to the public welfare",
+      "C": "Are both intended mainly to provide engineers with guidance on their self-interests",
+      "D": "(b) and (c)",
+      "E": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L1112-096",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "The Code of Ethics of Professional Engineers Ontario and the IEEE Code of Ethics",
+    "choices": {
+      "A": "Have differences related to the different mandates of PEO and IEEE",
+      "B": "Are equally important",
+      "C": "Are approved by a common committee for engineering ethics",
+      "D": "Both relate to licensing",
+      "E": "(a), (b) and (d)"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-097",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "Engineers who take on management roles in research laboratories of the federal governments sometimes must address",
+    "choices": {
+      "A": "Ethical dilemmas faced by their employees",
+      "B": "Issues involving human resources",
+      "C": "Decisions involving financial and material resources",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "L1112-098",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "An engineer who is an employee of a company should, as consequence of an engineer's duty to his employer",
+    "choices": {
+      "A": "Accept all assignments given to him, regardless of what is asked",
+      "B": "Dispute the company's requests when called for, but no more than once a year",
+      "C": "Learn about new engineering process of relevance to the employer's business activities",
+      "D": "(a) and (b)",
+      "E": "None of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "L1112-099",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "multiple_choice",
+    "question": "As a consequence of an engineer's duty to one's employer, an engineer who is an employee of a company",
+    "choices": {
+      "A": "Cannot take part in a strike against the employer",
+      "B": "Can be part of a labor union",
+      "C": "Cannot help expand the membership of the labor union",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L1112-100",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "Ethical behavior is timeless and universal",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-101",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "Engineers with purchasing responsibility should not be accountable for the impact their suppliers have on the environment.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L1112-102",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "Canadian citizens wants business to contribute to broader societal goals.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-103",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "Socially Responsible Investing (SRI) is growing slowly because investors are only concerned about the financial return.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-104",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "If it is legal, it is ethical.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L1112-105",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "The 2006 World Wildlife Fund \"Living Planet Report\" indicates that advances in more efficient and environmentally friendly vehicles have significantly reduced our impact on the planet.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L1112-106",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "If allowed by law, it can be ethical for Canadian engineers responsible for workers health and safety and the environment in developing countries to have lower health and safety or environmental standards than those used in Canada.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L1112-107",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "Economic growth in a country will always result in reducing poverty.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L1112-108",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "The focus of a management system is to ensure that identified actions, impacts and outcomes and legal and self-regulatory requirements are managed and appropriate internal controls are in place.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-109",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "ISO 26000 will provide guidance to organizations to accept responsibility for its actions and omissions but not those of its suppliers.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L1112-110",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "Failure of governments to enforce existing laws concerning the environment and workers' rights and safety is one of the reasons for the Montreal Consensus.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-111",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "The focus of AA 1000 is to increase quality in social and ethical accounting, auditing and reporting to all stakeholders.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-112",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "An engineer who does not consider the impact that his/ her design (either products, processes or services) has on the environment or on employees is acting unethically.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-113",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "Society recognizes that the negative impact of human activity is outweighed by societal benefits.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-114",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "Anti-corruption is covered in the UN Global Compact as well as the OECD Guidelines.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-115",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "The Montreal Consensus says that globalization and trade liberalization should bring improved prosperity to all.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-116",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "Not every engineering project affects the environment.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L1112-117",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "SR will not provide an organization with a way to identify and manage risks.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L1112-118",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "Companies can limit damage to their reputation by dealing openly with problems of labor code violations or environmental abuses.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-119",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "Stakeholder engagement for SR enhances accountability to stakeholders and overall business performance.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-120",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "The ISO 14001 Environmental Management System (EMS) will ensure that an organization has identified its significant environmental impacts.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-121",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "An ISO 14001 EMS will ensure that an organization is aware of all of the related laws, regulations and standards at the time of its registration audit.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-122",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "Engineers should not be held accountable for knowing which laws and regulations or industry standards relate to what their organization does.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "L1112-123",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "OHSAS 18001 Health and Safety Management System will ensure that employers are aware of hazards and risks that their employees are exposed to.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "L1112-124",
+    "source": "Lecture 11 & 12",
+    "topic": "Lecture 11 & 12",
+    "type": "true_false",
+    "question": "ISO 26000 will provide international best practice guiding principles and framework for CSR and Sustainable Development.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "EXT-001",
+    "source": "Extra",
+    "topic": "Extra Questions",
+    "type": "true_false",
+    "question": "Climate change adaptation is the responsibility of governments only.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "EXT-002",
+    "source": "Extra",
+    "topic": "Extra Questions",
+    "type": "true_false",
+    "question": "There is evidence that organizations implementing environmental, social and governance policies designed to create sustained competitive advantage had outperformed others listed on the stock market.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "EXT-003",
+    "source": "Extra",
+    "topic": "Extra Questions",
+    "type": "true_false",
+    "question": "Canada is one of the three worst offenders in the world in most critical areas of the environment including per capita emissions of greenhouse gases, sulphur dioxide, carbon monoxide and volatile organic compounds, water and energy consumption, energy efficiency.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "EXT-004",
+    "source": "Extra",
+    "topic": "Extra Questions",
+    "type": "true_false",
+    "question": "An organization should only consider the views of stakeholders that have a formal role in the governance of the organization or are aware of their interests.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "EXT-005",
+    "source": "Extra",
+    "topic": "Extra Questions",
+    "type": "true_false",
+    "question": "Socially responsible organizations are only responsible for their decisions and activities.",
+    "choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "EXT-006",
+    "source": "Extra",
+    "topic": "Extra Questions",
+    "type": "multiple_choice",
+    "question": "Organizations are becoming more socially responsible because:",
+    "choices": {
+      "A": "Their activities are subject to increased scrutiny by a wide variety of groups and individuals",
+      "B": "Policies or practices applied by an organization in different locations can be readily compared",
+      "C": "They can learn to be innovative in doing things and solving problems",
+      "D": "Without urgent, aggressive steps to stop greenhouse gas emissions, climate change will cause devastating heat waves, floods, starvation and disease",
+      "E": "All of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "EXT-007",
+    "source": "Extra",
+    "topic": "Extra Questions",
+    "type": "multiple_choice",
+    "question": "[Company A Environmental Assessment] Engineer Black indicated another solution to the municipality, and his solution was adopted.",
+    "choices": {
+      "A": "He was right to criticize Company A",
+      "B": "He was right to indicate to the Mayor that Company A's engineers are incompetent",
+      "C": "He is a better engineer",
+      "D": "None of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "EXT-008",
+    "source": "Extra",
+    "topic": "Extra Questions",
+    "type": "multiple_choice",
+    "question": "[Company A Environmental Assessment] Black wrote the letter to the Mayor commenting on another engineer's technical solution.",
+    "choices": {
+      "A": "Black was not entitled to write the letter to the Mayor",
+      "B": "Black should have to send a copy of the letter to Company A",
+      "C": "Black's personal comments on the competence of engineers employed by Company A is unethical behaviour",
+      "D": "Both (b) and (c)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "EXT-009",
+    "source": "Extra",
+    "topic": "Extra Questions",
+    "type": "multiple_choice",
+    "question": "[Company A Environmental Assessment] Considering the above facts, does the fact that Company A did not recommend Black's patented process in the recommended solution:",
+    "choices": {
+      "A": "Have any bearing in the letter written by engineer Black?",
+      "B": "Can imply that the letter written by Black is self serving and not in the best interest of the municipality",
+      "C": "Prove that Company A is not competent",
+      "D": "None of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "EXT-010",
+    "source": "Extra",
+    "topic": "Extra Questions",
+    "type": "multiple_choice",
+    "question": "[Company A Environmental Assessment] When considering Black's actions as described in the scenario, the following paragraphs of the Code of Ethics apply:",
+    "choices": {
+      "A": "7.i",
+      "B": "7.iii",
+      "C": "(a) and (b)",
+      "D": "4",
+      "E": "3"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "EXT-011",
+    "source": "Extra",
+    "topic": "Extra Questions",
+    "type": "multiple_choice",
+    "question": "[Company A Environmental Assessment] Criticism of another professional engineer's opinion might be appropriate in certain circumstances.",
+    "choices": {
+      "A": "It is appropriate to attack colleagues",
+      "B": "It is appropriate to maliciously injure reputation of other engineers",
+      "C": "It is appropriate to criticize with the engineer's knowledge, providing a proper professional tone is used",
+      "D": "All of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "EXT-012",
+    "source": "Extra",
+    "topic": "Extra Questions",
+    "type": "multiple_choice",
+    "question": "[Foundation and Ground Inc] The \"no-rat\" provision in the union by-laws is of concern because it:",
+    "choices": {
+      "A": "Prohibits any and all criticism of the work performed by field technicians and testing employees",
+      "B": "Could jeopardize the public health, safety and welfare",
+      "C": "Should not be of concern to Engineer Savoy because it applies to employees who are not licensed engineers",
+      "D": "(a) and (b)",
+      "E": "None of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "EXT-013",
+    "source": "Extra",
+    "topic": "Extra Questions",
+    "type": "multiple_choice",
+    "question": "[Foundation and Ground Inc] Parts of the PEO Code of Ethics that could be affected by the \"no-rat\" provision include:",
+    "choices": {
+      "A": "An engineer should not make unfair statements about other engineers",
+      "B": "An engineer should guard and protect the interests of clients",
+      "C": "An engineer should not place the public welfare in jeopardy",
+      "D": "(b) and (c)",
+      "E": "None of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "EXT-014",
+    "source": "Extra",
+    "topic": "Extra Questions",
+    "type": "multiple_choice",
+    "question": "[Foundation and Ground Inc] Engineer Savoy's concerns are valid because:",
+    "choices": {
+      "A": "Engineers cannot in general deal with members of unions",
+      "B": "Engineers cannot in general deal with members of unions due to the union's ability to formulate its own bylaws",
+      "C": "Having employees of Foundation and Ground Inc. who are members of a union would allow Engineer Savoy's engineering authority to be transferred to a non-engineer in an engineering matter involving public safety",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "EXT-015",
+    "source": "Extra",
+    "topic": "Extra Questions",
+    "type": "multiple_choice",
+    "question": "[Foundation and Ground Inc] Because of the \"no-rat\" provision, union members could be subject to:",
+    "choices": {
+      "A": "Excessive workloads",
+      "B": "Conflicted loyalties",
+      "C": "Intimidation",
+      "D": "(b) and (c)",
+      "E": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "EXT-016",
+    "source": "Extra",
+    "topic": "Extra Questions",
+    "type": "multiple_choice",
+    "question": "[Foundation and Ground Inc] The objective of sound engineering practice will be compromised by the presence of the union disciplinary provision in its bylaws prohibiting any union member from making derogatory or disparaging remarks about any other fellow union member or their performance for the following reason(s):",
+    "choices": {
+      "A": "Due to this union disciplinary provision, unionized field technicians and testing personnel may not in all cases provide reliable technical information",
+      "B": "Unionized field technicians and testing personnel will normally not consider themselves bound by this union disciplinary provision",
+      "C": "Field technicians and testing employees are usually not fully committed to serving the interests of the public welfare, and as a consequence will not provide the information necessary for Engineer Savoy to perform proper engineering services for her clients and to protect the public health and safety",
+      "D": "(a) and (c)",
+      "E": "All of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "EXT-017",
+    "source": "Extra",
+    "topic": "Extra Questions",
+    "type": "multiple_choice",
+    "question": "[Foundation and Ground Inc] The union disciplinary provision in its bylaws prohibiting any union member from making derogatory or disparaging remarks about any other fellow union member or their performance:",
+    "choices": {
+      "A": "Would prohibit Engineer Savoy from criticizing the work of field technicians and testing personnel",
+      "B": "Would prohibit field technicians and testing personnel from criticizing the work of Engineer Savoy",
+      "C": "Would prohibit Engineer Savoy from criticizing the work of other engineers",
+      "D": "(a) and (b)",
+      "E": "None of the above"
+    },
+    "answer": "E"
+  },
+  {
+    "id": "EXT-018",
+    "source": "Extra",
+    "topic": "Extra Questions",
+    "type": "multiple_choice",
+    "question": "[Hot Furnaces R Us] The fact that the accidents involving the Furnace 3000 led to a fatality:",
+    "choices": {
+      "A": "Makes Hot Furnaces R Us more responsible for determining if the Furnace 3000 was the cause of the accidents, than if no fatality occurred",
+      "B": "Forced Hot Furnaces R Us to investigate the cause of the accidents, whereas this was not necessary when no fatality had yet occurred, just injuries",
+      "C": "Makes Hot Furnaces R Us responsible for the accidents involving the Furnace 3000",
+      "D": "(a) and (c)",
+      "E": "None of the above"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "EXT-019",
+    "source": "Extra",
+    "topic": "Extra Questions",
+    "type": "multiple_choice",
+    "question": "[Hot Furnaces R Us] The fact that the Furnace 3000 is \"high-priced\":",
+    "choices": {
+      "A": "Does not help determine if Hot Furnaces R Us acted unethically",
+      "B": "Implies that the Furnace 3000 is safe",
+      "C": "Implies that the Furnace 3000 cannot be the cause of the accidents, since the high price indicates that safety measures in the Furnace 3000 were not compromised to save money",
+      "D": "(a) and (c)",
+      "E": "None of the above"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "EXT-020",
+    "source": "Extra",
+    "topic": "Extra Questions",
+    "type": "multiple_choice",
+    "question": "[Hot Furnaces R Us] The statement by Hot Furnaces R Us that its Furnace 3000 was not responsible for the accidents in which it was involved is unethical, from an engineering perspective, if:",
+    "choices": {
+      "A": "Hot Furnaces R Us only investigated the situation in a preliminary manner",
+      "B": "Hot Furnaces R Us had an independent expert in furnace safety do a comprehensive assessment, with the full cooperation of Hot Furnaces R Us, which led the firm to feel the Furnace 3000 was not responsible",
+      "C": "Hot Furnaces R Us, after studying the situation, decided that operator error, which the company deems not to be its responsibility, was the likely cause of the accidents",
+      "D": "(a) and (c)",
+      "E": "None of the above"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "EXT-021",
+    "source": "Extra",
+    "topic": "Extra Questions",
+    "type": "multiple_choice",
+    "question": "[Hot Furnaces R Us] Hot Furnaces R Us issued a \"stop delivery\" notice to dealers. This action demonstrates that:",
+    "choices": {
+      "A": "Hot Furnaces R Us is not concerned about its public image",
+      "B": "Hot Furnaces R Us is concerned with public safety",
+      "C": "Hot Furnaces R Us is only concerned with making sales and money",
+      "D": "(a) and (b)",
+      "E": "All of the above"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "EXT-022",
+    "source": "Extra",
+    "topic": "Extra Questions",
+    "type": "multiple_choice",
+    "question": "[Hot Furnaces R Us] The fact that Hot Furnaces R Us overturned its own \"stop delivery\" notice to dealers and decided to resume sales indicates that:",
+    "choices": {
+      "A": "Hot Furnaces R Us is ethical",
+      "B": "Hot Furnaces R Us is unethical",
+      "C": "Hot Furnaces R Us is only concerned with making sales and money",
+      "D": "(b) and (c)",
+      "E": "None of the above"
+    },
+    "answer": "E"
+  }
+]
